@@ -1,0 +1,1001 @@
+Id,Reputation,CreationDate,DisplayName,LastAccessDate,WebsiteUrl,Location,Views,UpVotes,DownVotes,Age,ProfileImageUrl,ImageName
+-1,1,19-07-2010 06:55,Community,19-07-2010 06:55,http://meta.stackexchange.com/,on the server farm,0,5007,1920,NULL,NULL,NULL
+2,101,19-07-2010 14:01,Geoff Dalgas,12-11-2013 22:07,http://stackoverflow.com,"Corvallis, OR",25,3,0,37,NULL,NULL
+3,101,19-07-2010 15:34,Jarrod Dixon,08-08-2014 06:42,http://stackoverflow.com,"New York, NY",22,19,0,35,NULL,NULL
+4,101,19-07-2010 19:03,Emmett,02-01-2014 09:31,http://minesweeperonline.com,"San Francisco, CA",11,0,0,28,http://i.stack.imgur.com/d1oHX.jpg,d1oHX.jpg
+5,6792,19-07-2010 19:03,Shane,13-08-2014 00:23,http://www.statalgo.com,"New York, NY",1145,662,5,35,NULL,NULL
+6,457,19-07-2010 19:04,Harlan,07-08-2014 19:49,http://www.harlan.harris.name,District of Columbia,114,47,0,41,NULL,NULL
+7,429,19-07-2010 19:04,Vince,10-09-2014 21:14,http://bioinformatics.ucdavis.edu,"Davis, CA",56,20,0,28,NULL,NULL
+8,6764,19-07-2010 19:04,csgillespie,09-09-2014 21:15,http://www.mas.ncl.ac.uk/~ncsg3/,"Newcastle, United Kingdom",1089,604,25,36,NULL,NULL
+10,121,19-07-2010 19:05,Pierre,28-07-2014 18:15,http://plindenbaum.blogspot.com,France,20,2,0,44,NULL,NULL
+11,136,19-07-2010 19:06,wahalulu,23-07-2014 21:28,http://www.linkedin.com/in/marckvaisman,"Washington, DC",10,10,0,40,NULL,NULL
+12,101,19-07-2010 19:06,Jin,09-09-2014 20:26,http://www.8164.org,"Raleigh, NC",10,5,0,38,NULL,NULL
+13,817,19-07-2010 19:06,Sharpie,14-08-2014 17:28,http://www.sharpsteen.net,United States,178,44,1,28,NULL,NULL
+15,11,19-07-2010 19:07,hannes.koller,24-08-2010 14:23,http://soma.denkt.org,"Vienna, Austria",8,0,0,35,NULL,NULL
+16,101,19-07-2010 19:08,slashnick,19-08-2010 20:40,NULL,"London, United Kingdom",4,7,0,31,NULL,NULL
+17,345,19-07-2010 19:08,Random,10-09-2010 07:34,NULL,NULL,14,13,1,NULL,NULL,NULL
+18,128,19-07-2010 19:08,grokus,09-08-2012 15:02,http://wikipedia.org,United States,8,16,0,44,NULL,NULL
+19,101,19-07-2010 19:08,Noah Snyder,17-06-2012 15:53,http://sbseminar.wordpress.com,"New York, NY",13,2,0,34,NULL,NULL
+21,101,19-07-2010 19:08,Waleed Al-Balooshi,26-09-2011 02:28,NULL,Michigan,6,0,0,33,NULL,NULL
+22,591,19-07-2010 19:09,radek,11-09-2014 15:21,NULL,"Berne, Switzerland",90,693,6,NULL,NULL,NULL
+23,308,19-07-2010 19:09,Jay Stevens,11-08-2014 19:51,http://www.centerlinescores.com,NULL,52,34,1,46,NULL,NULL
+24,344,19-07-2010 19:09,A Lion,06-12-2011 04:21,NULL,NULL,48,36,1,NULL,NULL,NULL
+25,4968,19-07-2010 19:09,Harvey Motulsky,13-09-2014 21:51,http://www.graphpad.com,Santa Monica CA,641,328,23,62,NULL,NULL
+26,3150,19-07-2010 19:09,JMS,13-09-2014 04:03,NULL,NULL,257,138,7,NULL,NULL,NULL
+27,101,19-07-2010 19:09,balpha,14-04-2014 14:57,http://balpha.de/,"Berlin, Germany",10,2,0,34,NULL,NULL
+29,2250,19-07-2010 19:09,JD Long,11-08-2014 19:14,http://cerebralmastication.com,"Chicago, IL",318,28,1,42,NULL,NULL
+30,2185,19-07-2010 19:10,gappy,27-08-2014 20:06,http://www.twitter.com/gappy3000,"New York, NY",312,40,3,NULL,NULL,NULL
+33,221,19-07-2010 19:11,James Roth,08-09-2014 21:15,NULL,NULL,11,2,0,NULL,NULL,NULL
+34,185,19-07-2010 19:11,Christopher D. Long,13-09-2014 00:02,http://angrystatistician.blogspot.com,"Versailles, KY",27,23,0,NULL,http://i.stack.imgur.com/km1pr.jpg,km1pr.jpg
+35,101,19-07-2010 19:11,adi92,13-08-2014 06:05,http://www.contrib.andrew.cmu.edu/~amukherj/,"Pittsburgh, PA",4,9,0,26,NULL,NULL
+36,1570,19-07-2010 19:11,Stephen Turner,29-08-2014 15:17,http://gettinggeneticsdone.blogspot.com/,"Nashville, TN",173,26,1,31,NULL,NULL
+37,156,19-07-2010 19:11,Menno,17-11-2011 08:12,NULL,NULL,2,0,0,NULL,NULL,NULL
+38,133,19-07-2010 19:11,EAMann,03-04-2012 15:47,http://www.eamann.com,"Portland, OR",15,1,0,31,NULL,NULL
+39,1651,19-07-2010 19:11,John L. Taylor,07-08-2014 17:21,http://www.johnnylogic.org/,"Portland, OR",255,12,0,35,NULL,NULL
+40,41,19-07-2010 19:12,Amy Glen,15-01-2012 12:15,http://amyglen.wordpress.com,"Perth, Australia",8,2,0,33,NULL,NULL
+41,611,19-07-2010 19:12,Reed Copsey,16-11-2012 17:32,http://www.reedcopsey.com,"Bellingham, WA",83,12,0,38,NULL,NULL
+43,101,19-07-2010 19:12,Nick Canzoneri,24-06-2014 19:24,http://nickcanzoneri.com,"Philadelphia, PA",1,1,1,NULL,NULL,NULL
+46,111,19-07-2010 19:13,hadley,27-08-2013 21:25,http://had.co.nz,"Houston, TX",350,59,15,35,NULL,NULL
+47,1,19-07-2010 19:13,mornington,07-09-2013 07:48,NULL,NULL,19,0,0,NULL,NULL,NULL
+50,101,19-07-2010 19:14,Alex Ott,04-09-2014 12:06,http://alexott.net/en/,Germany,3,3,0,40,NULL,NULL
+51,101,19-07-2010 19:14,Sami,02-12-2011 01:00,NULL,"New York, NY",0,1,0,40,NULL,NULL
+52,861,19-07-2010 19:15,Alan H.,31-12-2013 11:17,NULL,NULL,62,12,0,NULL,NULL,NULL
+53,138,19-07-2010 19:15,kyle,11-07-2014 21:29,http://1.618034.com,"Santa Monica, CA",8,7,0,30,NULL,NULL
+54,360,19-07-2010 19:15,chrisamiller,09-04-2014 21:24,http://www.chrisamiller.com,"St. Louis, MO",18,21,2,32,NULL,NULL
+55,366,19-07-2010 19:16,Amos,30-12-2012 12:05,http://www.wolfsheadsoftware.co.uk,"Bolton, United Kingdom",16,48,1,45,NULL,NULL
+56,563,19-07-2010 19:16,Benjamin Bannier,01-04-2014 09:52,NULL,"Hamburg, Germany",64,10,0,NULL,NULL,NULL
+57,126,19-07-2010 19:18,kaybenleroll,30-06-2014 15:49,http://www.kaybensoft.com,Ireland,7,93,0,37,NULL,NULL
+58,123,19-07-2010 19:19,Preets,06-09-2013 12:09,http://preetiedul.wordpress.com/,"London, United Kingdom",19,3,0,34,NULL,NULL
+59,402,19-07-2010 19:19,dassouki,04-07-2014 16:54,http://www.elegantdesigns.ca,"Fredericton, Canada",82,51,0,32,NULL,NULL
+60,101,19-07-2010 19:19,Jason Punyon,11-09-2014 18:41,http://jasonpunyon.com,"New York, NY",8,1,1,31,NULL,NULL
+61,1956,19-07-2010 19:19,Rich,12-03-2013 14:28,NULL,United States,147,39,4,NULL,NULL,NULL
+62,549,19-07-2010 19:20,Baltimark,18-07-2014 15:01,http://www.baltimark.com,United States,90,13,3,42,NULL,NULL
+64,136,19-07-2010 19:20,Martin,22-04-2013 12:48,http://None,"Seattle, WA",11,4,0,32,NULL,NULL
+65,101,19-07-2010 19:20,StompChicken,01-07-2014 06:42,http://www.stompchicken.com,United Kingdom,8,4,0,33,NULL,NULL
+66,614,19-07-2010 19:21,Daniel Vassallo,29-12-2011 23:59,http://ie.linkedin.com/in/danielvassallo,"Seattle, WA",102,12,0,31,NULL,NULL
+67,101,19-07-2010 19:21,John Stauffer,19-07-2010 19:21,NULL,Massachusetts,4,0,0,46,NULL,NULL
+68,503,19-07-2010 19:21,Ami,12-09-2014 20:49,NULL,NULL,42,10,0,26,NULL,NULL
+69,530,19-07-2010 19:22,Mehper C. Palavuzlar,14-08-2014 06:06,http://twitter.com/mehper,"Istanbul, Turkiye",174,630,6,36,NULL,NULL
+71,1936,19-07-2010 19:24,Matt Parker,08-09-2014 22:57,https://github.com/mmparker,"Denver, CO",328,2317,1,31,NULL,NULL
+72,800,19-07-2010 19:24,deinst,10-07-2014 13:05,NULL,NULL,77,58,0,NULL,NULL,NULL
+74,2316,19-07-2010 19:25,Neil McGuigan,04-09-2014 03:15,http://vancouverdata.blogspot.com,"Vancouver, Canada",1126,74,65,NULL,NULL,NULL
+75,321,19-07-2010 19:25,Oren,06-06-2014 14:38,http://oren.hizkiya.com,"New York, NY",44,4,0,26,NULL,NULL
+76,101,19-07-2010 19:26,svrist,20-09-2010 08:21,http://seet.dk,Denmark,3,9,0,32,NULL,NULL
+77,260,19-07-2010 19:26,Bossykena,08-11-2012 16:38,NULL,NULL,8,36,0,NULL,NULL,NULL
+78,123,19-07-2010 19:26,bshor,02-05-2014 21:12,NULL,NULL,4,4,0,NULL,NULL,NULL
+79,212,19-07-2010 19:27,adamo,22-12-2013 09:43,http://blog.postmaster.gr,"Athens, Greece",10,5,0,41,NULL,NULL
+80,211,19-07-2010 19:27,Fabian Steeg,20-07-2011 22:43,http://fsteeg.wordpress.com,"Cologne, Germany",16,7,0,34,NULL,NULL
+81,1307,19-07-2010 19:27,Tony Breyal,13-09-2014 20:52,http://twitter.com/tonybreyal,"London, United Kingdom",80,86,0,NULL,NULL,NULL
+82,685,19-07-2010 19:27,fgregg,29-08-2014 13:34,NULL,NULL,49,68,0,NULL,NULL,NULL
+83,804,19-07-2010 19:28,c4il,07-09-2014 14:28,http://c4il.jp,"Tokyo, Japan",64,11,0,NULL,http://i.stack.imgur.com/wSfuj.png,wSfuj.png
+84,101,19-07-2010 19:29,Kevin Montrose,11-09-2014 18:42,http://kevinmontrose.com/,"New York City, New York",3,10,0,NULL,NULL,NULL
+85,176,19-07-2010 19:31,Simon Nickerson,07-06-2014 12:25,http://nickerson.org.uk/blog,United Kingdom,25,3,0,34,NULL,NULL
+87,740,19-07-2010 19:34,Paul,23-08-2014 08:44,http://drpaulbrewer.com,Tennessee,89,58,2,NULL,NULL,NULL
+88,14082,19-07-2010 19:35,mbq,13-09-2014 10:26,https://mbq.me,"Warsaw, Poland",3320,4235,126,28,http://i.stack.imgur.com/ILcTf.png,ILcTf.png
+89,1281,19-07-2010 19:35,Mark Meckes,02-09-2014 14:29,NULL,NULL,105,61,4,NULL,NULL,NULL
+90,561,19-07-2010 19:36,Vivi,18-10-2012 01:27,NULL,Australia,287,27,0,33,NULL,NULL
+91,101,19-07-2010 19:39,ekollar,11-09-2014 14:13,NULL,"San Diego, CA",8,0,0,NULL,NULL,NULL
+92,31,19-07-2010 19:42,DaRob,06-12-2011 23:10,NULL,"Acton Vale, Canada",5,3,0,36,NULL,NULL
+93,96,19-07-2010 19:42,statuser,22-05-2013 15:25,NULL,NULL,3,2,0,35,NULL,NULL
+94,111,19-07-2010 19:42,Aleksandar Ivanisevic,11-09-2014 12:09,http://ivanisevic.de,Germany,15,6,0,43,NULL,NULL
+96,441,19-07-2010 19:43,Cyrus S,25-02-2013 23:17,http://cyrussamii.com,NULL,80,18,0,NULL,NULL,NULL
+98,291,19-07-2010 19:45,Michael Lugo,06-08-2014 14:41,NULL,NULL,24,141,1,NULL,NULL,NULL
+99,151,19-07-2010 19:45,Digital Gal,01-08-2014 16:46,NULL,United States,42,3,0,NULL,NULL,NULL
+101,502,19-07-2010 19:48,jebyrnes,11-09-2014 14:02,NULL,NULL,49,109,0,NULL,https://www.gravatar.com/avatar/?s=128&d=identicon&r=PG&f=1,NULL
+102,101,19-07-2010 19:48,Paperjam,25-01-2014 00:50,NULL,California,5,4,0,30,NULL,NULL
+103,261,19-07-2010 19:52,rcs,13-09-2014 15:51,http://stackoverflow.com/users/172261/rcs,"Vienna, Austria",34,41,1,NULL,NULL,NULL
+104,146,19-07-2010 19:52,Farrel,31-07-2014 14:56,NULL,"Pittsburgh, PA",26,23,0,49,NULL,NULL
+105,101,19-07-2010 19:53,hokiecsgrad,26-07-2010 12:42,NULL,NULL,0,0,0,NULL,NULL,NULL
+107,160,19-07-2010 19:56,Egon Willighagen,06-02-2013 08:16,http://egonw.github.com,NULL,14,20,3,NULL,NULL,NULL
+108,305,19-07-2010 20:02,Amanda,01-01-2012 18:44,http://mt.linkedin.com/in/attardamanda,Ireland,171,4,0,32,NULL,NULL
+110,443,19-07-2010 20:09,Thomas Owens,30-03-2014 12:43,http://thomasjowens.com/,"Nashua, NH",59,9,1,26,http://i.stack.imgur.com/Cc7mM.jpg,Cc7mM.jpg
+111,101,19-07-2010 20:10,Curt Hagenlocher,03-07-2011 23:31,http://blogs.msdn.com/curth/,United States,2,1,0,45,NULL,NULL
+112,101,19-07-2010 20:11,Ethan Post,20-07-2010 04:52,NULL,Texas,0,0,0,44,NULL,NULL
+113,101,19-07-2010 20:11,nkassis,03-08-2010 18:36,http://www.kassis.ca,"Montreal, Canada",0,0,0,28,NULL,NULL
+114,708,19-07-2010 20:14,PaulHurleyuk,18-08-2014 11:05,http://www.paulhurley.co.uk,NE UK,61,44,1,37,NULL,NULL
+115,101,19-07-2010 20:16,mindcrime,17-07-2014 15:55,http://www.fogbeam.com,"Chapel Hill, NC",8,0,0,41,NULL,NULL
+116,101,19-07-2010 20:16,Wilka,28-02-2014 14:17,http://plus.wilka.co.uk,"Newcastle, United Kingdom",2,9,0,35,NULL,NULL
+117,123,19-07-2010 20:17,Andrey Popp,26-09-2011 18:25,http://braintrace.ru,"St. Petersburg, Russia",4,1,0,27,NULL,NULL
+118,473,19-07-2010 20:17,Dave Kincaid,27-07-2014 21:20,NULL,"Eau Claire, WI",60,46,0,NULL,NULL,NULL
+119,139,19-07-2010 20:20,Vicente Cartas,22-07-2010 20:02,http://kartones.net/blogs/jadengine,"Madrid, Spain",12,0,0,33,NULL,NULL
+120,101,19-07-2010 20:21,Nicojo,24-06-2011 01:29,NULL,NULL,3,1,0,NULL,NULL,NULL
+121,101,19-07-2010 20:23,David Smith,13-03-2014 19:55,http://blog.revolutionanalytics.com/,NULL,4,3,0,NULL,NULL,NULL
+122,101,19-07-2010 20:38,mike the mike,19-07-2010 20:38,http://hireahelper.com,"San Diego, CA",8,0,0,31,NULL,NULL
+123,101,19-07-2010 20:41,Jeff Atwood,27-10-2012 18:07,http://www.codinghorror.com/blog/,"El Cerrito, CA",56,21,0,44,NULL,NULL
+124,121,19-07-2010 20:47,Duke of Lizards,30-08-2012 17:31,NULL,NULL,8,8,0,NULL,NULL,NULL
+125,391,19-07-2010 20:49,d_2,02-09-2010 16:54,NULL,"Burlington, VT",31,0,0,NULL,NULL,NULL
+126,101,19-07-2010 20:49,SnippyHolloW,23-04-2014 14:56,http://blogs.wefrag.com/SnippyHolloW/,"Tokyo, Japan",1,0,0,28,NULL,NULL
+127,236,19-07-2010 20:52,jilles de wit,05-11-2012 09:02,http://bismuth.nl,Europe,46,29,1,38,NULL,NULL
+128,166,19-07-2010 20:56,ymihere,23-06-2014 10:34,NULL,"Vienna, Austria",19,22,0,36,NULL,NULL
+129,101,19-07-2010 21:04,tim_yates,18-03-2014 13:52,http://twitter.com/tim_yates,"Manchester, United Kingdom",8,9,0,NULL,NULL,NULL
+130,241,19-07-2010 21:04,KungPaoChicken,07-08-2010 01:30,NULL,NULL,24,2,0,NULL,NULL,NULL
+131,216,19-07-2010 21:07,Emil H,11-02-2014 11:45,NULL,Sweden,14,6,0,NULL,NULL,NULL
+132,33,19-07-2010 21:12,Mike Richardson,07-11-2011 18:32,http://faculty.washington.edu/mrich,"Seattle, WA",8,2,0,64,NULL,NULL
+133,116,19-07-2010 21:17,DrDanielSwan,11-11-2013 11:43,http://danielswan.net,United Kingdom,6,2,1,41,NULL,NULL
+134,101,19-07-2010 21:20,Matt Hampel,04-07-2011 00:05,NULL,"Ann Arbor, MI",0,1,1,NULL,NULL,NULL
+135,101,19-07-2010 21:22,Dani,19-03-2011 14:00,http://www.netvibes.com/,Illinois,1,2,0,29,NULL,NULL
+138,231,19-07-2010 21:29,miku,25-03-2014 16:09,http://github.com/miku,Little Venice,24,20,0,NULL,NULL,NULL
+139,758,19-07-2010 21:29,Suresh Venkatasubramanian,09-08-2014 13:57,NULL,NULL,241,41,0,NULL,NULL,NULL
+140,1,19-07-2010 21:33,vitorcoliveira,23-12-2013 14:06,http://about.me/vitorcoliveira,Brazil,4,4,0,32,NULL,NULL
+141,101,19-07-2010 21:34,grm,12-10-2010 19:19,NULL,NULL,0,0,0,NULL,NULL,NULL
+142,185,19-07-2010 21:36,Yahel,28-01-2014 17:20,http://sharedcount.com,"Oakland, CA",19,10,0,27,http://i.stack.imgur.com/wyuMa.jpg,wyuMa.jpg
+143,101,19-07-2010 21:41,nbv4,19-07-2010 21:41,NULL,NULL,1,0,0,NULL,NULL,NULL
+144,1396,19-07-2010 21:43,Roman Luštrik,13-09-2014 12:59,http://danganothererror.wordpress.com,"Ljubljana, Slovenia",269,477,1,31,http://i.stack.imgur.com/ao2Pm.jpg,ao2Pm.jpg
+145,99,19-07-2010 21:51,Tom,14-05-2014 12:32,NULL,NULL,8,4,0,43,NULL,NULL
+147,101,19-07-2010 21:55,Bernie Perez,19-07-2010 21:55,http://www.rungeek.com,United States,1,0,0,33,NULL,NULL
+148,228,19-07-2010 21:55,AgCl,18-12-2010 04:59,NULL,NULL,11,12,0,NULL,NULL,NULL
+151,101,19-07-2010 22:22,Anthony Leverrier,25-01-2011 17:29,http://perso.telecom-paristech.fr/~leverrie/index.html,"Barcelona, Spain",9,0,0,34,NULL,NULL
+152,101,19-07-2010 22:25,Meidan Alon,27-07-2014 08:39,NULL,NULL,1,0,0,NULL,NULL,NULL
+153,101,19-07-2010 22:33,Martin McNulty,12-02-2012 14:53,http://martinmcnulty.co.uk,United Kingdom,3,0,0,29,NULL,NULL
+154,321,19-07-2010 22:38,brotchie,09-08-2010 10:44,NULL,"Brisbane, Australia",23,6,0,30,NULL,NULL
+155,101,19-07-2010 22:44,drxzcl,13-04-2013 18:27,http://zerocharactersleft.blogspot.com,NULL,1,2,0,NULL,NULL,NULL
+156,101,19-07-2010 22:45,Andrew Bolster,19-07-2010 22:45,http://www.andrewbolster.info/blog,"Belfast, United Kingdom",0,0,0,26,NULL,NULL
+158,111,19-07-2010 23:03,Kurtosis,10-10-2013 17:57,NULL,NULL,2,15,0,NULL,NULL,NULL
+159,18283,19-07-2010 23:05,Rob Hyndman,14-09-2014 02:53,http://robjhyndman.com,"Melbourne, Australia",3781,1014,59,47,NULL,NULL
+160,101,19-07-2010 23:12,Sean,19-07-2010 23:12,http://www.vdango.com/sean/,NULL,2,0,0,NULL,NULL,NULL
+161,101,19-07-2010 23:17,Peter K.,09-06-2014 12:24,https://sites.google.com/site/kootsoop/,"CT, USA",1,8,0,49,NULL,NULL
+162,101,19-07-2010 23:24,msutherl,16-01-2012 22:44,http://msutherl.net/,"Montreal, Canada",2,1,0,NULL,NULL,NULL
+163,276,19-07-2010 23:25,neilfws,11-09-2014 11:26,http://nsaunders.wordpress.com,"Sydney, Australia",12,1,0,43,NULL,NULL
+164,101,19-07-2010 23:43,Adrian Petrescu,19-03-2014 17:30,http://apetresc.wordpress.com,"Waterloo, Canada",3,2,0,26,NULL,NULL
+165,36,19-07-2010 23:45,chi-square,30-08-2010 01:44,NULL,"Toronto, Canada",2,1,0,NULL,NULL,NULL
+166,118,20-07-2010 00:16,Vitor De Mario,15-07-2013 16:07,NULL,Rio de Janeiro,3,7,0,29,NULL,NULL
+167,101,20-07-2010 00:19,Snackrifice,30-03-2014 07:12,http://edgarhassler.com,"Tempe, AZ",21,0,0,33,NULL,NULL
+168,147,20-07-2010 00:26,mkolar,05-03-2014 03:06,NULL,"Pittsburgh, PA",61,8,1,NULL,NULL,NULL
+169,113,20-07-2010 00:27,Isaac Hodes,05-04-2014 18:16,http://www.CopperThoughts.com,New York,19,5,0,24,NULL,NULL
+170,208,20-07-2010 00:34,Amro,06-08-2014 03:46,NULL,NULL,52,48,1,29,NULL,NULL
+171,171,20-07-2010 00:35,Mike Mazur,01-08-2014 17:35,NULL,"Singapore, Singapore",9,0,0,33,NULL,NULL
+172,564,20-07-2010 00:45,MarkSAlen,17-07-2014 00:14,http://twitter.com/siah,"Berkeley, CA",113,15,0,32,NULL,NULL
+173,453,20-07-2010 00:50,seancarmody,02-03-2014 05:21,http://www.stubbornmule.net,"Sydney, Australia",39,15,0,NULL,NULL,NULL
+174,792,20-07-2010 01:09,walkytalky,25-10-2013 11:14,http://walkytalky.net/,"London, United Kingdom",78,163,4,47,NULL,NULL
+175,236,20-07-2010 01:14,Graviton,09-09-2014 07:56,NULL,NULL,46,53,0,33,NULL,NULL
+176,101,20-07-2010 01:16,Philippe,05-06-2011 12:09,http://www.google.ca,"Trois-Rivieres, Canada",0,0,0,39,NULL,NULL
+177,101,20-07-2010 01:27,tzenes,29-01-2011 01:39,http://@tzenes,"Seattle, WA",0,0,0,29,NULL,NULL
+178,11,20-07-2010 01:39,ryfm,18-11-2011 21:11,NULL,NULL,2,8,0,NULL,NULL,NULL
+179,1416,20-07-2010 01:47,fmark,11-09-2014 11:00,NULL,NULL,147,352,10,NULL,NULL,NULL
+180,101,20-07-2010 02:11,ascarb,07-08-2014 16:38,NULL,NULL,0,0,0,NULL,NULL,NULL
+181,101,20-07-2010 02:48,phaedrus,14-12-2013 15:36,NULL,NULL,6,60,0,NULL,NULL,NULL
+183,22625,20-07-2010 02:56,Jeromy Anglim,11-09-2014 23:48,http://jeromyanglim.blogspot.com/,"Melbourne, Australia",4069,2496,45,NULL,NULL,NULL
+184,101,20-07-2010 03:09,Margaret,07-09-2011 01:06,http://mmaster.deadjournal.com,"Sydney, Australia",3,3,0,27,NULL,NULL
+186,101,20-07-2010 03:40,talonx,27-03-2011 12:49,http://code.deepinspace.net,NULL,1,1,0,NULL,NULL,NULL
+187,446,20-07-2010 03:47,Andrew Robinson,07-09-2014 23:05,http://www.ms.unimelb.edu.au/~andrewpr,"Melboure, Australia",69,6,0,48,NULL,NULL
+188,211,20-07-2010 03:49,Albort,08-08-2014 02:07,http://fjordist.wordpress.com,"Melbourne, Australia",19,2,0,33,NULL,NULL
+189,205,20-07-2010 04:27,Shawn,08-08-2010 07:01,http://none,"Melbourne, Australia",17,0,0,33,NULL,NULL
+190,1166,20-07-2010 04:40,Peter Smit,21-07-2014 07:59,http://users.ics.tkk.fi/peter/,"Espoo, Finland",146,482,24,27,NULL,NULL
+191,313,20-07-2010 04:57,vrish88,09-12-2013 07:39,http://remembr.in,United States,16,8,0,26,NULL,NULL
+193,101,20-07-2010 05:22,idursun,20-07-2010 05:22,NULL,"Istanbul, Turkey",0,1,0,34,https://www.gravatar.com/avatar/0d75735ed1574bba97c5f58dfc0aae52?s=128&d=identicon&r=PG,NULL
+194,38,20-07-2010 05:30,Stew,19-08-2014 13:27,http://compbiome.com,"Cambridge, United Kingdom",7,4,0,NULL,NULL,NULL
+195,101,20-07-2010 05:39,Anon,12-06-2013 17:33,NULL,NULL,7,0,0,NULL,NULL,NULL
+196,6140,20-07-2010 05:57,rpierce,13-09-2014 18:37,NULL,NULL,649,497,114,NULL,NULL,NULL
+197,138,20-07-2010 05:58,FloE,05-09-2014 10:53,http://tuwien.ac.at,Austria,5,21,1,27,NULL,NULL
+198,908,20-07-2010 06:26,Jonas,27-08-2014 07:11,http://www.mathworks.com/matlabcentral/fileexchange/authors/36283,"Basel, Switzerland",42,69,0,NULL,NULL,NULL
+199,1815,20-07-2010 06:31,Chris Beeley,07-08-2014 20:30,http://chrisbeeley.net,"Nottingham, United Kingdom",188,149,3,35,NULL,NULL
+200,128,20-07-2010 06:56,Ivo Danihelka,07-12-2013 22:30,http://lessoned.blogspot.com/,Czech Republic,24,9,0,33,NULL,NULL
+202,101,20-07-2010 07:04,Christian Witts,08-06-2012 12:15,http://www.linkedin.com/in/christianwitts,"Cape Town, South Africa",3,0,0,31,NULL,NULL
+203,101,20-07-2010 07:08,Bas Bossink,28-03-2012 11:22,http://basbossink.github.com/,Netherlands,1,1,0,42,NULL,NULL
+204,101,20-07-2010 07:15,user204,26-06-2014 21:02,NULL,NULL,0,4,0,NULL,NULL,NULL
+206,101,20-07-2010 08:05,dmcer,11-10-2011 00:11,http://www.dmcer.net,"San Francisco, CA",0,2,0,NULL,NULL,NULL
+207,101,20-07-2010 08:09,Rob Burke,27-07-2010 00:15,http://rob.ie/,"Dublin, Ireland",4,0,0,27,NULL,NULL
+210,337,20-07-2010 08:27,Ian Turner,10-12-2013 14:21,http://blue-feet.com,United Kingdom,47,32,1,38,NULL,NULL
+211,586,20-07-2010 08:36,user211,20-07-2010 12:43,NULL,NULL,11,0,0,NULL,NULL,NULL
+212,101,20-07-2010 08:42,dpavlin,22-07-2010 20:30,http://blog.rot13.org,"Zagreb, Croatia",1,11,1,40,NULL,NULL
+213,63,20-07-2010 08:46,Jonathan James,18-08-2010 05:35,NULL,NULL,9,1,0,NULL,NULL,NULL
+214,266,20-07-2010 09:18,Matti Pastell,12-09-2014 18:15,http://mpastell.com,Finland,31,29,0,33,NULL,NULL
+215,2496,20-07-2010 09:21,Graham Cookson,10-09-2010 15:05,http://grahamcookson.com,"London, United Kingdom",384,5,0,35,NULL,NULL
+216,31,20-07-2010 09:22,kpb,20-07-2010 11:51,NULL,NULL,4,0,0,NULL,NULL,NULL
+217,522,20-07-2010 09:31,Łukasz Lew,02-07-2014 08:34,NULL,"Warsaw, Poland",111,16,1,32,NULL,NULL
+218,121,20-07-2010 09:43,Vaibhav Garg,10-09-2014 08:58,http://crypticvaibhav.wordpress.com,India,9,12,0,32,NULL,NULL
+219,184,20-07-2010 10:17,SilentGhost,03-02-2011 12:25,NULL,NULL,119,2,0,NULL,NULL,NULL
+220,248,20-07-2010 11:00,Vebjorn Ljosa,11-07-2014 20:28,http://www.ljosa.com/~ljosa/,Massachusetts,34,11,0,NULL,http://i.stack.imgur.com/BF0y7.jpg,BF0y7.jpg
+221,615,20-07-2010 11:19,Manuel Ramón,03-09-2014 13:54,NULL,Spain,77,95,0,NULL,NULL,NULL
+222,101,20-07-2010 12:31,IanR,11-09-2014 08:28,http://ianreah.com/,"Newcastle Upon Tyne, United Kingdom",3,3,0,44,NULL,NULL
+223,4022,20-07-2010 12:52,robin girard,11-09-2014 22:19,http://www.mines-paristech.fr/Services/Annuaire/&?id=8828,France,1471,345,19,34,NULL,NULL
+225,101,20-07-2010 13:09,Mark Longair,18-08-2014 05:55,http://longair.net/mark/,"Cambridge, United Kingdom",6,0,0,38,NULL,NULL
+226,1293,20-07-2010 13:24,babelproofreader,07-09-2014 15:11,NULL,NULL,266,55,0,NULL,NULL,NULL
+227,226,20-07-2010 13:40,Steve Lianoglou,27-08-2014 05:06,NULL,United States,4,71,0,NULL,NULL,NULL
+228,121,20-07-2010 13:42,Stephen Henderson,20-06-2014 20:40,http://scholar.google.com/citations?user=L5t2HBYAAAAJ&hl=en,"UCL, United Kingdom",4,9,0,NULL,http://i.stack.imgur.com/wmOYS.jpg?s=128&g=1,NULL
+229,629,20-07-2010 14:01,James,12-09-2014 14:06,NULL,NULL,64,65,0,NULL,NULL,NULL
+230,1233,20-07-2010 14:01,vonjd,12-09-2014 21:00,https://plus.google.com/108351331401552240682/posts,Germany,106,170,2,44,NULL,NULL
+232,101,20-07-2010 14:15,m3rLinEz,03-08-2013 07:46,http://lifeonvm.nkuln.com,Thailand,0,4,0,28,NULL,NULL
+233,101,20-07-2010 14:40,Michael Dunn,03-07-2014 10:09,http://stackoverflow.com/,"Nijmegen, The Netherlands",3,4,0,NULL,NULL,NULL
+235,101,20-07-2010 14:49,David Fullerton,24-07-2014 17:00,http://careers.stackoverflow.com/dfullerton,"New York, NY",5,0,0,29,NULL,NULL
+236,221,20-07-2010 14:55,ilya,20-08-2014 14:25,NULL,"Atlanta, GA",9,8,0,NULL,NULL,NULL
+239,101,20-07-2010 15:42,Joel Spolsky,14-05-2014 01:50,http://www.joelonsoftware.com/,"New York, NY",66,3,0,NULL,NULL,NULL
+240,281,20-07-2010 15:52,bmargulies,08-09-2014 18:12,http://dssheep.blogspot.com/,Massachusetts,31,8,0,55,NULL,NULL
+241,101,20-07-2010 16:08,Nick Haslam,23-07-2010 08:44,http://oldnick.typepad.com/msblog/,"England, United Kingdom",0,0,0,41,NULL,NULL
+246,101,20-07-2010 18:22,Robert Cartaino,08-09-2014 14:34,NULL,"Palm Bay, FL",9,0,1,NULL,NULL,NULL
+247,898,20-07-2010 19:05,PeterR,12-09-2014 17:01,NULL,NULL,104,82,3,NULL,NULL,NULL
+248,101,20-07-2010 19:10,Michael Pryor,12-04-2014 15:14,http://www.fogcreek.com,"New York, NY",0,1,0,38,NULL,NULL
+250,131,21-07-2010 01:16,Opt,10-09-2014 02:03,NULL,NULL,6,9,0,NULL,NULL,NULL
+251,7931,21-07-2010 03:28,ars,26-02-2014 14:27,NULL,NULL,984,819,0,NULL,NULL,NULL
+252,315,21-07-2010 04:21,Rizwan Kassim,11-12-2013 09:37,http://www.geekymedia.com,"Los Angeles, CA",40,8,0,33,NULL,NULL
+253,5309,21-07-2010 07:53,Tal Galili,02-09-2014 14:18,http://www.r-statistics.com,Israel,1147,1160,5,33,NULL,NULL
+254,101,21-07-2010 10:25,Zano,30-03-2014 00:23,NULL,"Stockholm, Sweden",0,3,0,44,NULL,NULL
+255,195,21-07-2010 10:33,Max,17-03-2014 18:23,NULL,NULL,11,32,0,NULL,NULL,NULL
+256,171,21-07-2010 12:09,Mojo,31-07-2010 11:25,NULL,"Sydney, Australia",6,2,0,37,NULL,NULL
+257,121,21-07-2010 12:50,RobinGower,13-06-2013 14:48,http://infonomics.ltd.uk,"Manchester, United Kingdom",2,2,0,NULL,NULL,NULL
+258,101,21-07-2010 14:38,yoyoyoyosef,11-09-2014 13:56,NULL,NULL,1,9,0,NULL,NULL,NULL
+259,138,21-07-2010 19:51,MikeF,20-08-2011 22:25,http://thelastpixel.net/,NULL,6,3,0,NULL,NULL,NULL
+260,526,21-07-2010 20:21,Hbar,13-05-2014 11:58,http://none,"Washington, DC",24,2,0,52,NULL,NULL
+261,442,21-07-2010 21:38,robintw,08-09-2014 14:16,http://www.rtwilson.com,"England, United Kingdom",84,30,2,26,NULL,NULL
+263,101,22-07-2010 04:38,Ramesh Soni,09-11-2010 08:54,http://www.dailycoding.com,India,4,0,0,31,NULL,NULL
+264,4701,22-07-2010 05:56,steffen,07-09-2014 15:02,https://twitter.com/MLWiDA,NULL,839,1408,55,NULL,http://i.stack.imgur.com/GTHqI.jpg,GTHqI.jpg
+266,1272,22-07-2010 10:01,Freya Harrison,12-09-2014 11:30,http://sessrumnir.wikidot.com,NULL,335,108,1,NULL,https://www.gravatar.com/avatar/7d6524e509c8607ab65d9d8173071fe5?s=128&d=identicon&r=PG&f=1,NULL
+267,91,22-07-2010 10:51,Statisfactions,02-12-2012 18:53,NULL,NULL,17,4,0,NULL,NULL,NULL
+268,101,22-07-2010 11:14,James Webster,04-09-2010 05:22,http://www.thenewsbeforethenews.com,"Brisbane, Australia",4,1,0,39,NULL,NULL
+270,229,22-07-2010 14:55,AdamV,27-07-2010 12:48,http://blog.crmguru.co.uk,"Leeds, United Kingdom",25,4,0,NULL,NULL,NULL
+273,1384,23-07-2010 01:54,Hibernating,10-09-2014 15:45,NULL,NULL,87,17,0,NULL,NULL,NULL
+275,101,24-07-2010 17:44,rz_,21-12-2013 00:01,http://metarz.net,"Chicago, IL",0,0,0,32,NULL,NULL
+276,201,24-07-2010 20:31,Scott Weinstein,15-12-2013 01:44,http://weblogs.asp.net/sweinstein,"New York, NY",17,10,0,40,NULL,NULL
+277,131,25-07-2010 15:46,Ramnath,08-09-2014 04:02,NULL,"Montreal, Canada",22,1,0,NULL,NULL,NULL
+278,101,26-07-2010 16:14,Tate Hansen,06-12-2013 14:47,http://www.clearnetsec.com/,Colorado,7,0,0,NULL,NULL,NULL
+279,6176,26-07-2010 17:02,Aniko,12-09-2014 21:29,NULL,"Milwaukee, WI",374,578,8,NULL,NULL,NULL
+280,101,26-07-2010 17:50,Michael Kuhn,26-08-2014 07:28,http://www.mckuhn.de,"Dresden, Germany",1,27,0,NULL,NULL,NULL
+281,101,26-07-2010 19:08,arathorn,27-09-2010 19:17,http://stats.stackexchange.com,Texas,1,0,0,36,NULL,NULL
+282,101,26-07-2010 19:09,Ben Schwehn,23-07-2014 05:49,http://bschwehn.de,"Edinburgh, United Kingdom",7,2,0,35,NULL,NULL
+283,118,26-07-2010 19:11,user283,24-10-2011 14:39,NULL,NULL,5,23,0,NULL,NULL,NULL
+284,190,26-07-2010 19:11,griffin,17-01-2013 01:12,NULL,NULL,10,191,0,NULL,NULL,NULL
+285,223,26-07-2010 19:12,Lazer,20-07-2012 13:10,NULL,NULL,6,3,0,NULL,NULL,NULL
+287,847,26-07-2010 19:16,JoFrhwld,08-09-2014 18:00,NULL,NULL,73,19,0,NULL,NULL,NULL
+288,86,26-07-2010 19:17,Shrey,14-07-2012 23:10,NULL,California,3,9,0,29,NULL,NULL
+290,129,26-07-2010 19:19,Bunnenberg,22-06-2014 14:06,NULL,NULL,127,8,4,NULL,http://i.stack.imgur.com/FluI8.jpg,FluI8.jpg
+291,251,26-07-2010 19:19,apeescape,29-02-2012 02:10,NULL,NULL,17,51,0,NULL,NULL,NULL
+292,138,26-07-2010 19:19,warren,21-05-2014 16:11,http://antipaucity.com,"Lexington, KY",13,15,4,33,http://i.stack.imgur.com/sQFX6.jpg,sQFX6.jpg
+293,101,26-07-2010 19:20,dagorym,26-07-2010 19:20,http://www.thomasstephens.info,"Spanish Fork, UT",0,0,0,42,NULL,NULL
+297,103,26-07-2010 19:24,Maxim Zaslavsky,22-07-2013 17:35,http://maximzaslavsky.com,"San Diego, CA",2,17,0,17,NULL,NULL
+298,111,26-07-2010 19:25,ansate,20-06-2013 20:30,NULL,NULL,6,2,0,NULL,NULL,NULL
+300,524,26-07-2010 19:27,Dr G,25-08-2014 20:25,NULL,NULL,44,223,0,NULL,NULL,NULL
+301,155,26-07-2010 19:28,MatthewMartin,02-05-2014 16:34,http://buddhism.wakayos.com,United States,6,6,1,41,NULL,NULL
+302,246,26-07-2010 19:29,DrewConway,05-12-2013 19:01,http://www.drewconway.com/,"New York, NY",36,17,1,NULL,NULL,NULL
+303,238,26-07-2010 19:30,John Myles White,13-05-2014 20:08,http://www.johnmyleswhite.com,"Princeton, NJ",140,1,1,33,NULL,NULL
+305,118,26-07-2010 19:33,Joe Philllips,28-02-2014 13:15,NULL,United States,24,4,0,29,NULL,NULL
+307,4829,26-07-2010 19:35,Bernd Weiss,13-09-2014 14:57,http://berndweiss.net,"Cologne, Germany",1088,692,3,NULL,NULL,NULL
+308,101,26-07-2010 19:37,Scott Morrison,29-08-2013 02:11,http://tqft.net/,"Berkeley, CA",3,0,0,35,NULL,NULL
+310,101,26-07-2010 19:43,Michael Mior,06-05-2014 12:37,http://michael.mior.ca/,"Waterloo, Canada",0,0,0,NULL,NULL,NULL
+311,101,26-07-2010 19:44,Mike Polen,13-12-2013 14:22,http://about.me/mwpolen,"Richmond, VA",1,0,0,48,NULL,NULL
+314,101,26-07-2010 19:46,NickAldwin,03-07-2013 02:42,http://nick.aldwin.us/,NULL,1,0,0,NULL,NULL,NULL
+315,611,26-07-2010 19:46,niko,11-09-2014 12:36,http://mypetprojects.blogspot.com/,Slovenia,49,2,0,32,NULL,NULL
+316,101,26-07-2010 19:46,Nick Gotch,04-08-2010 23:56,http://www.offbitstudios.com,"San Diego, CA",0,0,0,36,NULL,NULL
+317,81,26-07-2010 19:53,Tim,29-12-2013 21:48,NULL,"Altadena, CA",24,0,0,NULL,NULL,NULL
+319,1994,26-07-2010 20:00,John D. Cook,25-04-2014 12:52,http://www.johndcook.com,"Houston, TX",523,62,0,NULL,NULL,NULL
+320,101,26-07-2010 20:01,Matěj G.,24-07-2014 16:27,http://mgrabovsky.net,Czech Republic,0,3,0,19,NULL,NULL
+322,101,26-07-2010 20:04,repka,19-05-2013 01:30,NULL,"New York, NY",0,0,0,NULL,NULL,NULL
+325,101,26-07-2010 20:11,Erv Walter,26-07-2010 20:11,http://ewal.net,"Madison, WI",1,0,0,40,NULL,NULL
+326,101,26-07-2010 20:12,Steffen Opel,19-12-2012 17:16,http://opelbrothers.net/,Germany,5,5,0,46,NULL,NULL
+327,303,26-07-2010 20:14,hslc,27-07-2010 13:17,NULL,NULL,36,0,0,NULL,NULL,NULL
+329,101,26-07-2010 20:20,John Gietzen,13-11-2011 00:32,http://twitter.com/otac0n,"Seattle, WA",1,0,0,29,NULL,NULL
+330,101,26-07-2010 20:20,Jeffrey,07-08-2012 19:26,http://stackoverflow.com,United States,1,0,0,29,NULL,NULL
+333,1233,26-07-2010 20:29,user333,13-03-2012 00:16,NULL,NULL,104,75,4,NULL,NULL,NULL
+334,5134,26-07-2010 20:29,Dirk Eddelbuettel,10-09-2014 20:11,http://dirk.eddelbuettel.com,"Chicago, IL",842,58,9,NULL,NULL,NULL
+335,101,26-07-2010 20:30,Michael Schneider,16-07-2014 02:27,http://michaeldschneider.com,"Livermore, CA",0,4,0,NULL,NULL,NULL
+338,126,26-07-2010 20:48,awshepard,24-01-2013 18:40,NULL,United States,2,0,0,27,NULL,NULL
+339,3039,26-07-2010 20:58,George Dontas,14-08-2014 20:22,http://www.linkedin.com/in/gd047,Hellas,363,125,0,47,http://i.stack.imgur.com/IPbxC.jpg,IPbxC.jpg
+340,101,26-07-2010 20:59,txwikinger,12-03-2013 19:36,http://drupal.txwikinger.me.uk,Canada,4,0,0,48,NULL,NULL
+344,101,26-07-2010 21:12,mafutrct,25-10-2011 09:26,http://mafutrct.de/blog,Germany,0,0,0,27,NULL,NULL
+346,101,26-07-2010 21:17,Jared Updike,28-07-2010 21:36,http://www.updike.org/,"Los Angeles, CA",0,4,0,33,NULL,NULL
+347,101,26-07-2010 21:19,Gelatin,12-01-2014 15:25,NULL,United Kingdom,0,0,0,NULL,https://www.gravatar.com/avatar/94d06629fa35471de63c4a428771db65?s=128&d=identicon&r=PG&f=1,NULL
+350,101,26-07-2010 21:31,JSchlather,15-12-2012 19:35,http://homepages.uc.edu/~schlatjj/,NULL,1,2,0,25,NULL,NULL
+351,101,26-07-2010 21:36,antony.trupe,29-07-2014 20:23,http://antonytrupe.com,"Lynchburg, VA",8,1,0,32,NULL,NULL
+352,793,26-07-2010 21:46,Robby McKilliam,10-09-2014 07:02,http://www.itr.unisa.edu.au/~mckillrg,NULL,99,236,2,NULL,NULL,NULL
+353,101,26-07-2010 21:47,Jack Kada,14-03-2013 18:06,NULL,NULL,6,2,0,NULL,NULL,NULL
+354,101,26-07-2010 21:47,joshdick,06-08-2014 14:02,http://www.karstendick.com,"Philadelphia, PA",1,3,0,28,NULL,NULL
+357,101,26-07-2010 22:04,keyle,27-07-2010 00:29,http://idletogether.com/,Australia,0,3,0,34,NULL,NULL
+358,51,26-07-2010 22:08,Georgi,08-10-2011 17:59,NULL,"Brussels, Belgium",4,12,0,NULL,NULL,NULL
+360,101,26-07-2010 22:25,therefromhere,03-12-2011 03:33,NULL,"Auckland, New Zealand",1,0,0,37,NULL,NULL
+362,101,26-07-2010 22:33,CodeKiwi,09-09-2014 05:54,http://blog.codekiwi.com,Australia,0,0,1,33,NULL,NULL
+364,5442,26-07-2010 22:38,Mike Lawrence,14-07-2014 00:30,http://thinkingaboutthinking.org,"Halifax, Canada",671,115,2,NULL,NULL,NULL
+365,101,26-07-2010 22:45,Drake,05-12-2013 11:29,http://www.dota2.it,Italy,1,2,0,34,NULL,NULL
+366,21,26-07-2010 22:57,Scott Manderson,04-08-2010 04:51,NULL,NULL,14,0,0,NULL,NULL,NULL
+367,111,26-07-2010 23:48,imoatama,21-07-2012 04:03,NULL,"Melbourne, Australia",0,0,0,NULL,NULL,NULL
+368,369,27-07-2010 00:09,Alekk,12-04-2014 17:04,http://linbaba.wordpress.com/,NULL,18,5,0,NULL,NULL,NULL
+369,29,27-07-2010 00:21,user369,25-08-2014 18:21,NULL,NULL,1,0,0,NULL,NULL,NULL
+371,101,27-07-2010 00:27,miloshadzic,13-12-2010 13:17,http://miloshadzic.com,"Belgrade, Serbia",1,0,0,27,NULL,NULL
+373,101,27-07-2010 00:45,KahWee Teng,10-09-2010 19:14,http://i.justrealized.com,"Singapore, Singapore",1,13,0,29,NULL,NULL
+374,101,27-07-2010 01:23,John Smith,01-08-2014 18:13,NULL,NULL,1,0,0,NULL,NULL,NULL
+375,529,27-07-2010 01:32,Eduardo Leoni,18-03-2014 13:43,http://eduardoleoni.com,"Salvador, Brazil",46,9,0,39,NULL,NULL
+377,101,27-07-2010 01:41,Jeremy Ross,27-07-2010 01:41,http://jeremyross.org,"Dallas, TX",2,0,0,NULL,NULL,NULL
+378,316,27-07-2010 01:42,Eric Suh,08-09-2011 19:48,NULL,"Princeton, NJ",6,2,0,NULL,NULL,NULL
+380,101,27-07-2010 01:46,Jonik,08-07-2013 19:35,http://careers.stackoverflow.com/jonik,Finland,2,4,0,35,NULL,NULL
+381,101,27-07-2010 01:49,Rex M,28-02-2014 14:30,http://www.rexmorgan.net,United States,0,1,0,NULL,NULL,NULL
+382,101,27-07-2010 01:52,81bronco,11-08-2010 22:51,http://raleighbuckner.com,South Carolina,0,0,0,38,NULL,NULL
+383,101,27-07-2010 01:57,Tony Meyer,31-12-2013 05:26,http://tonyandrewmeyer.com,New Zealand,1,3,0,35,NULL,NULL
+384,101,27-07-2010 02:00,x3ja,27-07-2010 02:00,http://x3ja.co.uk,"Nottingham, United Kingdom",0,0,0,35,NULL,NULL
+385,101,27-07-2010 02:03,Sim,03-09-2010 01:00,http://twitter/simalam,Australia,0,0,0,46,NULL,NULL
+386,891,27-07-2010 02:08,Douglas S. Stones,29-10-2013 14:50,https://sites.google.com/site/rknmodn/,"Halifax, Canada",185,55,0,32,NULL,NULL
+389,101,27-07-2010 02:28,Michael Ekstrand,28-04-2014 21:48,http://elehack.net/michael,"San Marcos, TX",0,7,0,29,NULL,NULL
+390,101,27-07-2010 02:32,Kris Erickson,27-07-2010 02:32,http://kris-erickson.tumblr.com/,"Vancouver, Canada",0,0,0,44,NULL,NULL
+391,101,27-07-2010 02:37,jjnguy,23-05-2012 13:25,NULL,"St Paul, MN",2,1,0,28,NULL,NULL
+392,101,27-07-2010 02:45,Guru,11-11-2012 22:53,http://guruparan18.wordpress.com,"Portland, OR",2,1,0,31,NULL,NULL
+393,101,27-07-2010 02:46,esm,27-07-2010 02:46,http://esm.logic.net/,"Aurora, IL",1,0,0,40,NULL,NULL
+394,33,27-07-2010 02:48,Shelby,04-12-2011 16:33,NULL,NULL,5,0,0,NULL,NULL,NULL
+395,101,27-07-2010 02:56,jmanning2k,11-11-2011 20:08,http://www.alisa-jon.net/,United States,0,7,0,36,NULL,NULL
+396,101,27-07-2010 03:02,Andrew Koester,08-07-2013 19:31,http://www.neocodenetworks.com,Michigan,2,0,0,26,NULL,NULL
+397,101,27-07-2010 03:05,Andriyev,13-07-2011 04:15,NULL,"Burbank, CA",7,2,0,NULL,NULL,NULL
+398,101,27-07-2010 03:08,Nikhil,14-08-2012 04:00,http://www.technikhil.com,"Thiruvananthapuram, India",4,1,0,37,NULL,NULL
+399,101,27-07-2010 03:19,Nick Berardi,22-10-2010 02:38,http://coderjournal.com,"Collegeville, PA",0,0,0,34,NULL,NULL
+400,213,27-07-2010 03:25,Jfly,10-08-2014 17:44,NULL,NULL,14,0,0,NULL,NULL,NULL
+401,6906,27-07-2010 03:35,Charlie,27-08-2014 18:09,http://cgibbons.us,"San Francisco, CA",1070,394,6,31,NULL,NULL
+402,61,27-07-2010 03:55,Paul Braddon,27-07-2010 22:44,NULL,NULL,2,0,0,NULL,NULL,NULL
+406,101,27-07-2010 04:34,Bernard Chen,05-08-2010 18:49,NULL,NULL,2,0,0,NULL,NULL,NULL
+407,101,27-07-2010 04:51,nicerobot,23-08-2013 04:26,http://nicerobot.org,United States,2,0,0,NULL,NULL,NULL
+408,101,27-07-2010 05:37,Jeff Swensen,27-03-2014 15:20,NULL,New Jersey,1,0,0,33,NULL,NULL
+410,123,27-07-2010 06:49,scw,11-09-2014 22:12,http://twitter.com/scw,"Boston, MA",5,21,0,NULL,NULL,NULL
+411,101,27-07-2010 06:59,Zoredache,09-03-2014 08:20,https://plus.google.com/116016060571998963190/posts,"Anacortes, WA",1,2,0,38,NULL,NULL
+412,101,27-07-2010 07:02,Cornelius,03-06-2014 03:31,http://mirczynski.com,Singapore,1,8,0,28,NULL,NULL
+413,101,27-07-2010 07:09,AVD,23-01-2013 13:31,https://twitter.com/avd_kvp,India,0,26,0,43,NULL,NULL
+414,106,27-07-2010 07:11,Tom Carter,13-02-2014 06:20,http://www.tom-carter.net,"Vay, France",4,1,0,44,NULL,NULL
+417,101,27-07-2010 07:28,Alexander Konstantinov,13-11-2013 09:56,http://alexanderkonstantinov.wordpress.com/,"Riga, Latvia",1,1,0,34,NULL,NULL
+419,379,27-07-2010 07:48,Wojtek,10-01-2014 18:27,NULL,"Lodz, Poland",25,7,0,45,NULL,NULL
+420,101,27-07-2010 07:51,Ivo Flipse,25-07-2014 21:59,http://www.flipserd.com/blog,"Huissen, Netherlands",4,244,0,29,NULL,NULL
+422,111,27-07-2010 08:05,momobo,10-09-2014 14:53,NULL,"Bologna, Italy",1,7,0,NULL,NULL,NULL
+424,101,27-07-2010 08:15,Bartosz Radaczyński,27-07-2010 08:15,http://bradaczynski.wordpress.com/,"Łódź, Poland",1,0,0,36,NULL,NULL
+426,101,27-07-2010 08:27,mhenrixon,27-07-2010 08:27,http://blog.zoolutions.se/,"Växjö, Sweden",1,0,0,36,NULL,NULL
+427,38,27-07-2010 08:33,Jiri Lukavsky,20-08-2014 07:39,http://www.jirilukavsky.info,"Prague, Czech Republic",10,17,0,36,http://i.stack.imgur.com/KNKIE.jpg,KNKIE.jpg
+428,126,27-07-2010 08:35,ninjaPixel,03-12-2013 21:33,http://www.ninjaPixel.eu,"Channel Islands, United Kingdom",1,0,0,32,NULL,NULL
+431,71,27-07-2010 08:42,Andrew V,11-11-2013 14:06,NULL,United Kingdom,28,1,0,NULL,NULL,NULL
+432,101,27-07-2010 08:53,izb,24-06-2014 13:59,http://www.yeahbutisitart.com/,"Scotland, United Kingdom",1,0,0,38,NULL,NULL
+434,111,27-07-2010 09:05,Paolo,01-08-2014 11:49,http://onertipaday.blogspot.com,"San Michele all'Adige, Italy",7,54,0,NULL,NULL,NULL
+435,101,27-07-2010 09:09,mika,25-05-2012 11:01,http://www.flowmarks.com,"Helsinki, Finland",1,0,0,36,NULL,NULL
+436,101,27-07-2010 09:24,marklam,02-07-2014 15:27,http://nonodes.spunow.co.uk,NULL,0,0,0,42,NULL,NULL
+438,2133,27-07-2010 09:38,doug,11-08-2014 05:54,http://careers.stackoverflow.com/dougybarbo,"San Francisco, CA",272,28,1,44,NULL,NULL
+439,2031,27-07-2010 09:47,NPE,15-08-2014 13:39,NULL,"London, United Kingdom",268,152,1,NULL,NULL,NULL
+440,101,27-07-2010 09:54,lhahne,27-07-2010 09:54,NULL,NULL,0,0,0,NULL,NULL,NULL
+441,101,27-07-2010 09:56,ihuston,12-07-2014 12:30,http://www.ianhuston.net,"London, United Kingdom",0,0,0,32,NULL,NULL
+442,6431,27-07-2010 10:01,Henrik,13-09-2014 12:14,http://singmann.org,"Freiburg, Germany",973,857,21,31,NULL,NULL
+443,11,27-07-2010 10:54,noworries,19-06-2013 15:52,NULL,NULL,1,0,0,NULL,NULL,NULL
+444,101,27-07-2010 11:08,oluies,21-11-2011 19:11,http://twitter.com/#!/oluies,Sweden,0,0,0,40,NULL,NULL
+445,152,27-07-2010 11:14,Mike Wong,01-09-2011 00:25,http://none,"Nova Scotia, Canada",10,32,0,27,NULL,NULL
+446,118,27-07-2010 11:28,ariddell,01-02-2014 17:19,http://ariddell.org,NULL,8,12,0,NULL,NULL,NULL
+447,1422,27-07-2010 11:31,Dave Kellen,24-01-2011 17:39,NULL,NULL,173,20,0,NULL,NULL,NULL
+449,12813,27-07-2010 12:10,onestop,13-06-2014 20:48,http://www.onestop.co.uk,United Kingdom,1089,1607,57,NULL,NULL,NULL
+452,111,27-07-2010 12:49,Carl,01-08-2014 11:41,http://stackoverflow.com/users/167973/carl,"Gainesville, FL",1,3,0,32,NULL,NULL
+453,131,27-07-2010 12:49,Chris,15-11-2011 00:26,NULL,"Peterborough, Canada",1,0,0,27,NULL,NULL
+455,378,27-07-2010 12:53,Larry Wang,23-09-2010 01:40,NULL,"Madison, WI",24,26,0,27,NULL,NULL
+456,101,27-07-2010 12:56,xiechao,18-08-2011 06:35,NULL,NULL,1,0,0,NULL,NULL,NULL
+457,101,27-07-2010 12:58,njd,21-02-2011 15:05,http://www.bl.uk,United Kingdom,0,0,0,43,NULL,NULL
+458,101,27-07-2010 12:58,Jenea,21-09-2010 12:54,NULL,"Chisinau, Moldova",0,0,0,27,NULL,NULL
+460,148,27-07-2010 13:09,pramodc84,02-09-2013 03:58,http://www.pramodc.wordpress.com,"Bangalore, India",5,4,0,30,NULL,NULL
+461,101,27-07-2010 13:15,jpalecek,26-10-2012 19:20,NULL,NULL,2,13,0,NULL,NULL,NULL
+462,101,27-07-2010 13:17,Andrew,06-11-2010 03:17,http://N/A,"Kansas City, KS",0,0,0,35,NULL,NULL
+463,141,27-07-2010 13:39,Vipul,16-08-2014 05:20,NULL,"Chicago, IL",11,11,0,28,NULL,NULL
+465,101,27-07-2010 13:44,Ricket,05-11-2010 22:35,http://www.richardcarter.org/,"Raleigh, NC",1,0,0,24,NULL,NULL
+467,101,27-07-2010 14:04,Eric Wilson,18-04-2014 23:45,http://wilsonericn.wordpress.com,"Circleville, OH",3,3,0,42,NULL,NULL
+468,141,27-07-2010 14:34,Sinan Ünür,30-11-2012 14:57,http://www.unur.com/,"Ithaca, NY",1,2,0,45,NULL,NULL
+469,101,27-07-2010 14:51,jeffm,12-10-2010 23:20,http://jeffmetzner.spaces.live.com,United States,0,1,0,47,NULL,NULL
+472,101,27-07-2010 15:01,Carl Manaster,01-08-2010 16:11,http://undisclosed-recipients.blogspot.com,"San Diego, CA",0,0,0,52,NULL,NULL
+474,22,27-07-2010 15:08,Tailltu,03-08-2010 14:23,NULL,NULL,12,0,0,NULL,NULL,NULL
+475,101,27-07-2010 15:13,Carter Tazio Schonwald,30-08-2014 14:12,http://www.cstheory.net,"New York, United States",1,0,0,26,NULL,NULL
+476,208,27-07-2010 15:19,hatorade,28-06-2011 23:06,NULL,NULL,7,0,1,NULL,NULL,NULL
+478,300,27-07-2010 15:21,Richie Cotton,19-08-2014 11:03,NULL,United Kingdom,29,13,0,35,NULL,NULL
+480,113,27-07-2010 15:29,mohans,01-08-2010 16:27,NULL,"Dublin, Ireland",4,0,0,NULL,NULL,NULL
+481,31,27-07-2010 15:37,iamreddave,02-09-2011 16:12,http://liveatthewitchtrials.blogspot.,"Dublin, Ireland",4,0,0,NULL,NULL,NULL
+482,61,27-07-2010 15:39,Alan Scrivner,01-08-2010 15:34,http://www.navsea.navy.mil/nswc/Corona,California,9,0,0,57,NULL,NULL
+483,101,27-07-2010 15:39,Adam Goode,05-08-2010 20:01,http://spicenitz.org/~adam/,"Pittsburgh, PA",1,0,0,35,NULL,NULL
+485,2908,27-07-2010 15:45,Brett Magill,09-09-2014 21:42,NULL,"St Louis, MO",265,444,11,NULL,NULL,NULL
+486,101,27-07-2010 16:04,Ron,13-01-2014 17:40,NULL,NULL,0,46,0,39,NULL,NULL
+488,109,27-07-2010 16:20,HoLyVieR,12-03-2013 16:15,http://holyvier.blogspot.com/,"Montreal, Canada",7,2,0,23,NULL,NULL
+490,1,27-07-2010 16:25,sheed03,14-07-2011 19:54,NULL,NULL,1,0,0,NULL,NULL,NULL
+491,46,27-07-2010 16:52,wormbuff,29-07-2010 11:56,NULL,NULL,3,0,0,NULL,NULL,NULL
+492,1,27-07-2010 17:10,stob,20-06-2011 15:29,http://sgcotmaths.takeforum.com,"Welton, IA",6,0,0,51,NULL,NULL
+493,909,27-07-2010 17:15,Tristan,21-07-2014 03:29,NULL,NULL,96,87,4,NULL,NULL,NULL
+494,11,27-07-2010 17:15,Nathan Harmston,27-09-2012 16:10,NULL,NULL,9,0,0,NULL,NULL,NULL
+495,2092,27-07-2010 17:22,Simon Byrne,14-07-2014 08:35,NULL,"Cambridge, United Kingdom",272,32,4,NULL,NULL,NULL
+498,19,27-07-2010 17:46,user498,27-07-2010 20:18,NULL,NULL,1,0,0,NULL,NULL,NULL
+500,104,27-07-2010 18:01,erikvold,28-08-2010 22:55,http://erikvold.com/index.cfm,NULL,2,0,0,NULL,NULL,NULL
+501,300,27-07-2010 18:12,momeara,03-09-2014 14:38,NULL,"Toronto, Canada",20,9,0,30,NULL,NULL
+503,108,27-07-2010 19:09,Dariusz Wozniak,16-12-2013 13:23,NULL,NULL,8,1,0,NULL,NULL,NULL
+504,101,27-07-2010 19:11,Swinders,10-02-2014 14:57,http://swinders.co.uk,United Kingdom,3,1,0,40,NULL,NULL
+506,223,27-07-2010 19:48,Michel de Ruiter,27-04-2014 22:39,http://www.sentient.nl/,"Amsterdam, The Netherlands",29,14,0,38,NULL,NULL
+509,139,27-07-2010 20:27,Peter Mortensen,20-07-2014 13:29,http://msquant.sourceforge.net/,"Odense, Denmark",90,24,2,49,NULL,NULL
+510,101,27-07-2010 21:01,Suppressingfire,29-04-2011 17:38,http://www.cs.binghamton.edu/~mike,"San Jose, CA",1,0,0,37,NULL,NULL
+511,1796,27-07-2010 21:03,Yaroslav Bulatov,13-05-2014 19:49,http://yaroslavvb.blogspot.com,"Mountain View, CA",516,33,4,34,NULL,NULL
+512,101,27-07-2010 21:09,Studer,31-07-2010 22:31,http://studer.su,Switzerland,1,0,0,27,NULL,NULL
+513,16,27-07-2010 22:00,way4thesub,29-07-2010 01:44,NULL,NULL,5,0,0,NULL,NULL,NULL
+516,157,27-07-2010 22:46,JudoWill,12-07-2013 13:51,http://www.willdampier.info,"Philadelphia, PA",11,3,0,31,NULL,NULL
+517,101,27-07-2010 22:46,esabine,24-07-2014 12:35,http://twitter.com/esabine,"Charlotte, NC",0,0,0,42,NULL,NULL
+520,268,27-07-2010 23:53,gotgenes,06-05-2013 15:42,http://www.gotgenes.com/,"Irvine, CA",42,9,0,32,NULL,NULL
+521,2133,28-07-2010 00:56,Thylacoleo,24-11-2010 01:31,NULL,NULL,205,65,0,NULL,NULL,NULL
+522,101,28-07-2010 01:04,womble,28-07-2010 01:04,http://hezmatt.org/~mpalmer/blog,"Sydney, Australia",1,0,0,34,NULL,NULL
+523,326,28-07-2010 01:16,Washington S. Silva,19-08-2014 02:15,NULL,"Formiga, Brazil",32,10,0,41,http://i.stack.imgur.com/nhtMQ.jpg,nhtMQ.jpg
+524,101,28-07-2010 01:32,Chris Bilson,25-09-2012 13:44,http://twitter.com/cbilson/,"Seattle, WA",1,0,0,42,NULL,NULL
+526,1,28-07-2010 02:44,Mark,14-06-2014 13:10,http://schaver.com/,"Louisville, KY",1,0,0,53,NULL,NULL
+527,125,28-07-2010 03:50,dsolimano,13-09-2014 16:17,http://www.solimano.org,"New York, NY",6,61,0,30,NULL,NULL
+528,148,28-07-2010 04:15,Samik R,06-12-2013 05:07,NULL,NULL,22,1,0,NULL,NULL,NULL
+529,118,28-07-2010 04:35,Khader Shameer,09-09-2014 00:49,http://twitter.com/kshameer,"Rochester, MN",40,61,0,34,NULL,NULL
+530,599,28-07-2010 05:55,emakalic,24-05-2012 01:32,http://www.emakalic.org/blog,"Melbourne, Australia",77,2,0,NULL,NULL,NULL
+531,19,28-07-2010 06:17,user531,30-07-2010 07:52,NULL,NULL,7,0,0,NULL,NULL,NULL
+536,101,28-07-2010 07:30,bjarkef,28-01-2014 11:47,NULL,Denmark,1,0,0,NULL,NULL,NULL
+539,279,28-07-2010 09:30,Clair Crossupton,12-05-2014 10:44,NULL,NULL,31,14,0,NULL,NULL,NULL
+541,141,28-07-2010 09:45,Christine Forrester,22-08-2013 13:41,NULL,NULL,9,0,0,NULL,NULL,NULL
+542,101,28-07-2010 10:07,Artiom Chilaru,28-07-2010 10:07,http://www.flexlabs.org,"Chisinau, Moldova",1,0,0,27,NULL,NULL
+543,101,28-07-2010 11:39,Mechko,06-06-2014 15:33,http://www.mechko.com,All over the world,0,0,0,26,NULL,NULL
+546,138,28-07-2010 12:42,Julius A,20-08-2013 14:51,http://wp7agile.wordpress.com/,United Kingdom,11,1,0,36,NULL,NULL
+547,101,28-07-2010 12:51,Mr. Shiny and New 安宇,31-08-2012 15:49,http://eternalephemeron.blogspot.com/,"Toronto, Canada",10,0,0,36,http://i.stack.imgur.com/7kTe1.jpg,7kTe1.jpg
+549,286,28-07-2010 14:13,user549,19-08-2010 21:55,NULL,NULL,39,5,0,NULL,NULL,NULL
+553,101,28-07-2010 14:50,Eric Petroelje,11-03-2014 21:06,http://www.cqlcorp.com,"Grand Rapids, MI",4,0,0,36,NULL,NULL
+555,101,28-07-2010 15:13,Trevor Burnham,09-08-2010 20:29,http://trevorburnham.com/,"Cambridge, MA",2,0,0,29,NULL,NULL
+556,113,28-07-2010 15:23,RegDwight,09-04-2014 15:25,http://lego.cuusoo.com/ideas/view/39075,"Europe, GMT+1",22,33,0,35,NULL,NULL
+557,1273,28-07-2010 15:54,denis,02-09-2014 14:28,NULL,"Munich, Germany",142,58,0,NULL,NULL,NULL
+558,101,28-07-2010 16:39,Eruditass,28-04-2014 20:47,NULL,NULL,1,0,0,NULL,NULL,NULL
+559,485,28-07-2010 17:01,Elpezmuerto,08-07-2014 18:57,http://www.linkedin.com/in/andrewweinert,United States,44,9,0,27,NULL,NULL
+560,104,28-07-2010 17:52,Roy Maclean,28-07-2010 19:01,NULL,NULL,6,0,0,NULL,NULL,NULL
+561,2002,28-07-2010 18:07,pmgjones,24-06-2013 13:59,NULL,Canada,186,155,11,NULL,NULL,NULL
+562,173,28-07-2010 18:09,Jacob,21-08-2014 16:32,NULL,NULL,21,6,0,29,NULL,NULL
+563,101,28-07-2010 18:52,jim mcnamara,28-07-2010 18:52,NULL,New Mexico,0,0,0,NULL,NULL,NULL
+564,101,28-07-2010 19:22,Kendall Hopkins,17-09-2011 01:46,http://github.com/KendallHopkins,"Berrien Springs, MI",0,0,0,26,NULL,NULL
+565,125,28-07-2010 19:29,j.p.,05-12-2013 14:26,NULL,NULL,32,22,0,NULL,NULL,NULL
+566,11,28-07-2010 20:08,user566,15-08-2010 13:53,NULL,NULL,37,17,0,NULL,NULL,NULL
+569,307,28-07-2010 21:42,Btibert3,07-09-2014 02:39,http://twitter.com/brocktibert,"Boston, MA",46,43,0,NULL,NULL,NULL
+572,161,28-07-2010 22:56,Jonathan Fischoff,08-04-2014 16:18,NULL,NULL,19,2,0,NULL,NULL,NULL
+573,365,28-07-2010 23:56,Karsten W.,06-09-2014 19:03,http://factbased.blogspot.com,"Berlin, Germany",40,260,0,38,NULL,NULL
+575,101,29-07-2010 00:43,Chris W. Rea,16-09-2013 19:17,http://pragmaticmoney.ca,"Toronto, Canada",3,0,0,40,NULL,NULL
+577,101,29-07-2010 01:54,Jim Blake,29-07-2010 01:54,http://filevine.com,United States,0,0,0,45,NULL,NULL
+578,65,29-07-2010 02:21,Haibao Tang,20-03-2013 18:18,http://tanghaibao.blogspot.com,"Berkeley, CA",14,7,0,31,NULL,NULL
+582,2400,29-07-2010 06:38,nico,13-09-2014 11:20,http://www.nicolaromano.net,"Edinburgh, United Kingdom",293,692,23,34,NULL,NULL
+583,101,29-07-2010 08:13,inazaruk,20-09-2011 12:41,NULL,"Kiev, Ukraine",0,0,0,29,NULL,NULL
+586,101,29-07-2010 09:47,Regent,04-11-2011 15:17,http://www.shelfari.com/undef/shelf,"London, United Kingdom",0,1,0,29,NULL,NULL
+588,1034,29-07-2010 10:36,lokheart,05-09-2014 16:19,NULL,NULL,185,38,0,NULL,NULL,NULL
+589,58,29-07-2010 11:14,Svisstack,07-09-2014 23:07,NULL,"Szczecin, Poland",11,4,0,NULL,NULL,NULL
+590,101,29-07-2010 11:47,Kristopher Johnson,29-07-2010 11:47,http://undefinedvalue.com/,United States,1,0,0,47,NULL,NULL
+591,101,29-07-2010 12:15,TM.,16-12-2013 21:25,http://google.com/+TaylorMarshall,"Mountain View, CA",1,0,0,29,NULL,NULL
+593,108,29-07-2010 12:44,LiamGu,24-01-2014 09:32,http://twitter.com/evoroth,United Kingdom,0,3,0,26,NULL,NULL
+594,101,29-07-2010 12:49,ebynum,30-07-2010 04:45,http://www.ebynum.com,"Greenville, SC",1,0,0,32,NULL,NULL
+595,146,29-07-2010 13:19,Marcin,12-09-2014 13:52,http://redhardsupra.blogspot.com,"Laurel, MD",25,57,0,37,NULL,NULL
+596,101,29-07-2010 13:20,kajaco,29-01-2011 19:31,http://somethingelsetodo,"Lexington, KY",2,0,0,54,NULL,NULL
+597,232,29-07-2010 13:55,kmm,26-08-2014 23:22,NULL,California,12,178,2,NULL,NULL,NULL
+600,165,29-07-2010 14:14,Hooked,10-09-2014 17:06,http://thoppe.github.io/,NULL,4,33,0,NULL,http://i.stack.imgur.com/ZFHpl.jpg,ZFHpl.jpg
+601,13478,29-07-2010 14:29,John,14-09-2014 01:56,NULL,"Halifax, Canada",1286,283,17,NULL,NULL,NULL
+603,10647,29-07-2010 15:38,user603,12-09-2014 17:06,https://www.researchgate.net/profile/Kaveh_Vakili/?ev=hdr_xprf,"Leuven, Belgium",1225,683,49,NULL,NULL,NULL
+605,108,29-07-2010 17:30,Andreas,17-11-2012 11:53,NULL,NULL,3,4,0,NULL,NULL,NULL
+606,101,29-07-2010 17:55,GSto,29-07-2010 17:55,http://www.glennstovall.com,"Athens, GA",0,0,0,28,NULL,NULL
+608,138,29-07-2010 18:45,Ampleforth,06-11-2010 06:06,NULL,New Jersey,18,4,0,NULL,NULL,NULL
+609,691,29-07-2010 18:47,Andrej,12-09-2014 10:36,NULL,NULL,113,44,1,NULL,NULL,NULL
+612,1,29-07-2010 20:51,Gus,29-08-2013 16:19,https://plus.google.com/u/0/113133610044149445676/about,Massachusetts,1,0,0,41,NULL,NULL
+613,101,29-07-2010 21:07,deizel,29-07-2010 21:07,http://deizel.com,"Stirling, United Kingdom",0,0,0,29,NULL,NULL
+614,305,29-07-2010 21:51,Wilhelm,23-02-2014 23:44,NULL,"Mexico City, Mexico",34,7,0,35,NULL,NULL
+615,379,29-07-2010 23:57,Bill the Lizard,11-09-2014 13:39,http://www.BillTheLizard.com,"Charlotte, NC",51,163,49,40,NULL,NULL
+616,26,30-07-2010 00:40,sabunime,07-07-2011 18:43,NULL,NULL,6,0,0,NULL,NULL,NULL
+617,101,30-07-2010 05:36,Daniel Trebbien,17-02-2013 15:00,NULL,NULL,0,9,0,NULL,NULL,NULL
+618,101,30-07-2010 08:50,ptman,30-08-2010 12:01,http://ptman.name/,"Helsinki, Finland",2,0,0,28,NULL,NULL
+621,101,30-07-2010 15:00,Louisa Grey,17-07-2014 16:38,NULL,United States,1,22,0,NULL,NULL,NULL
+624,121,30-07-2010 17:50,Killian_OC,16-06-2014 19:47,NULL,NULL,6,0,0,27,NULL,NULL
+626,101,30-07-2010 21:16,Franci Penov,30-07-2010 21:16,http://penov.org/,"Kirkland, WA",3,0,0,42,NULL,NULL
+629,133,31-07-2010 03:42,nicolaskruchten,11-12-2011 07:28,http://nicolas.kruchten.com/,"Montreal, Canada",9,0,0,NULL,NULL,NULL
+631,101,31-07-2010 11:22,setatakahashi,31-07-2010 11:22,http://setaoffice.com/,"Sao Paulo, Brazil",1,0,0,30,NULL,NULL
+632,202,31-07-2010 15:29,Brani,03-07-2014 09:57,NULL,NULL,38,69,0,NULL,NULL,NULL
+633,101,31-07-2010 16:04,Thomas Jung,03-09-2010 06:30,http://theyougen.blogspot.com/,"Mannheim, Germany",2,0,0,NULL,NULL,NULL
+634,426,31-07-2010 17:32,David B,19-12-2010 12:32,NULL,NULL,47,8,0,NULL,NULL,NULL
+635,146,31-07-2010 18:43,Pedro Oliveira,06-01-2014 19:00,http://www.cpdomina.net,NULL,3,1,0,NULL,NULL,NULL
+636,1,31-07-2010 19:25,Marcos de Carvalho,06-06-2012 01:36,http://www.marcosdecarvalho.com,"Porto Alegre, Brazil",0,0,0,36,NULL,NULL
+637,118,31-07-2010 19:53,Blue Magister,12-02-2014 04:02,NULL,NULL,6,25,0,NULL,NULL,NULL
+638,241,31-07-2010 21:33,Henk Langeveld,21-05-2014 15:12,http://hlangeveld.nl,"Vathorst,Netherlands",13,2,0,NULL,NULL,NULL
+640,101,01-08-2010 09:11,WalterJ89,20-04-2014 19:45,http://www.gyswebdesign.com,"Abbotsford, Canada",1,0,0,25,NULL,NULL
+641,1,01-08-2010 11:01,vgbio24,31-07-2014 17:23,NULL,NULL,0,0,0,NULL,NULL,NULL
+642,23,01-08-2010 11:50,Mark L,04-09-2010 04:55,http://www.marklarratt.com,NULL,0,0,0,NULL,NULL,NULL
+643,251,01-08-2010 13:19,darrenjw,23-02-2014 11:22,http://www.staff.ncl.ac.uk/d.j.wilkinson/,"Newcastle, United Kingdom",31,13,0,NULL,NULL,NULL
+644,28,01-08-2010 17:36,Heather Piwowar,30-10-2013 12:56,http://www.researchremix.org,NULL,16,2,0,NULL,NULL,NULL
+646,111,01-08-2010 19:16,DarenW,28-07-2014 19:12,http://www.darenscotwilson.com,Southern California,5,26,1,54,http://i.stack.imgur.com/f21uW.jpg,f21uW.jpg
+647,141,01-08-2010 22:30,Christopher DuBois,02-09-2014 06:08,http://www.ics.uci.edu/~duboisc,"Irvine, CA",19,14,0,30,NULL,NULL
+648,101,02-08-2010 02:31,duffbeer703,11-02-2011 02:05,http://Donthaveone!,United States,0,0,0,36,NULL,NULL
+650,230,02-08-2010 09:27,Rasmus,07-08-2014 10:53,NULL,NULL,42,45,0,29,http://i.stack.imgur.com/1uoPg.jpg,1uoPg.jpg
+652,158,02-08-2010 14:11,Russell Gallop,23-10-2013 10:25,NULL,"Bristol, United Kingdom",6,0,0,NULL,NULL,NULL
+653,1,02-08-2010 15:01,fbahr,20-02-2014 09:53,http://profiles.google.com/114451807329956829391/about,"Braunschweig/Hannover, Germany",4,0,0,NULL,NULL,NULL
+656,2320,02-08-2010 16:17,richiemorrisroe,06-02-2014 16:03,NULL,"Cork, Ireland",203,1273,7,33,NULL,NULL
+660,286,02-08-2010 17:05,David James,13-09-2014 23:19,NULL,"Washington, DC",37,16,3,36,NULL,NULL
+665,58,02-08-2010 20:27,madereal,22-08-2010 23:08,NULL,NULL,3,5,0,NULL,NULL,NULL
+666,1855,02-08-2010 20:31,Carlos Accioly,01-07-2014 13:26,http://www.accioly-biz.com,"Rio De Janeiro, Brazil",105,71,0,50,NULL,NULL
+667,406,02-08-2010 20:36,gianluca,08-10-2010 01:17,NULL,NULL,56,11,0,NULL,NULL,NULL
+668,101,02-08-2010 20:53,Mike Dewar,09-06-2014 01:34,NULL,NULL,12,2,0,NULL,NULL,NULL
+669,101,02-08-2010 21:40,Darryl Hein,02-08-2010 21:40,http://www.xmmedia.net,"Calgary, Canada",1,0,0,32,NULL,NULL
+671,101,02-08-2010 22:14,tovare,27-08-2014 13:27,http://www.tovare.com,Norway,4,9,0,42,NULL,NULL
+672,111,02-08-2010 22:53,Mitch Flax,03-06-2011 03:07,NULL,"Oakland, CA",8,1,0,NULL,NULL,NULL
+676,101,03-08-2010 05:28,T..,05-05-2011 23:58,NULL,NULL,9,0,0,NULL,NULL,NULL
+677,101,03-08-2010 06:40,Tom,21-04-2011 12:18,http://www.example.com,"Adelaide, Australia",0,2,0,40,NULL,NULL
+679,336,03-08-2010 10:55,Rahul,12-09-2014 17:46,NULL,"Amsterdam, Netherlands",15,0,0,33,NULL,NULL
+681,101,03-08-2010 12:42,ericslaw,05-08-2010 02:36,NULL,USA,0,4,0,NULL,NULL,NULL
+682,101,03-08-2010 15:46,cbrulak,29-01-2014 19:33,http://www.elxn41.ca,Canada,1,0,0,35,NULL,NULL
+683,101,03-08-2010 15:59,Art,05-03-2013 09:42,http://nimblegecko.com,"Melbourne, Australia",1,0,0,34,NULL,NULL
+684,186,03-08-2010 19:30,jermdemo,21-08-2014 16:05,http://jermdemo.blogspot.com,"Philadelphia, PA",16,8,0,NULL,NULL,NULL
+685,1,03-08-2010 19:39,aTron,12-09-2014 18:23,http://www.andrewdyck.com,Canada,0,0,0,31,NULL,NULL
+686,44152,03-08-2010 19:42,Peter Flom,13-09-2014 22:08,http://www.statisticalanalysisconsulting.com/,"New York, NY",7357,2156,82,55,NULL,NULL
+687,26,03-08-2010 19:50,zaphod,03-08-2010 20:18,http://abstractlabor.blogspot.com,"New York, NY",0,0,0,49,NULL,NULL
+689,101,03-08-2010 20:21,Brian Luft,02-09-2010 05:33,http://unbracketed.com,"Claremont, CA",0,0,0,37,NULL,NULL
+690,121,03-08-2010 21:09,JIm,10-02-2013 13:57,NULL,NULL,7,5,0,NULL,NULL,NULL
+691,1,03-08-2010 21:58,mvaz,12-08-2014 08:08,http://mvaz.net,Germany,1,0,0,NULL,NULL,NULL
+692,101,03-08-2010 22:26,robert,21-01-2011 10:29,http://www.google.com/,"Laurel, MD",0,0,0,30,NULL,NULL
+696,2282,04-08-2010 02:10,Chase,03-09-2014 14:58,http://www.rsginc.com,"Chicago, IL",182,136,18,28,NULL,NULL
+697,176,04-08-2010 03:06,Fojtasek,23-05-2014 17:33,http://weber.ucsd.edu/~gfojtase,"San Diego, CA",18,57,2,30,NULL,NULL
+698,113,04-08-2010 05:27,The Disintegrator,04-06-2013 19:18,http://www.arielburone.com.ar,"Buenos Aires, Argentina",2,2,0,36,NULL,NULL
+700,101,04-08-2010 07:01,yesraaj,04-08-2010 08:13,https://crazycodes.wordpress.com,"Madurai, India",0,0,0,30,NULL,NULL
+701,101,04-08-2010 07:14,Sarfraz,05-09-2011 11:15,http://sarfraznawaz.wordpress.com,"Karachi, Pakistan",0,0,0,30,NULL,NULL
+702,424,04-08-2010 07:18,AndyF,11-09-2014 22:49,http://www.andyfugard.info,NULL,37,34,2,NULL,NULL,NULL
+703,101,04-08-2010 07:30,mosg,05-08-2010 13:42,http://mosg.wordpress.com/,"Moscow, Russia",0,0,0,29,NULL,NULL
+704,577,04-08-2010 07:36,hans0l0,24-07-2014 13:38,http://notrightnow,Switzerland,64,51,0,32,NULL,NULL
+705,121,04-08-2010 08:01,Jukka Matilainen,26-04-2014 11:43,NULL,NULL,1,3,0,NULL,NULL,NULL
+706,101,04-08-2010 08:50,Eric Johnson,16-08-2010 15:33,http://networthify.com,"London, United Kingdom",0,0,0,36,NULL,NULL
+707,101,04-08-2010 08:50,Martin Tóth,18-04-2013 15:32,http://ezimir.github.io,"Košice, Slovakia",57,10,0,30,NULL,NULL
+708,101,04-08-2010 08:57,Mark,24-11-2013 17:28,NULL,"London, United Kingdom",0,1,0,NULL,NULL,NULL
+710,101,04-08-2010 09:24,Galwegian,20-01-2014 11:13,http://www.jessicacooke.ie,"Rome, GA",0,0,0,NULL,NULL,NULL
+711,101,04-08-2010 09:47,Jimmy Stenke,04-08-2010 09:47,NULL,Sweden,0,0,0,35,NULL,NULL
+713,6,04-08-2010 10:50,euki,15-04-2013 15:43,NULL,"London, United Kingdom",3,0,0,40,NULL,NULL
+714,101,04-08-2010 10:52,gnud,30-08-2011 06:54,NULL,NULL,0,0,0,NULL,NULL,NULL
+715,101,04-08-2010 10:56,tig,06-09-2013 12:52,NULL,Genève,0,0,0,28,NULL,NULL
+716,1,04-08-2010 11:02,Stephen,03-05-2013 10:18,http://www.google.com,"Scotland, United Kingdom",4,0,0,23,NULL,NULL
+717,101,04-08-2010 11:04,Cosmic Flame,07-05-2014 18:37,http://worthlesscheese.com,"Cambridge, United Kingdom",0,0,0,28,NULL,NULL
+718,101,04-08-2010 11:06,XIII,19-12-2013 07:49,http://www.krisvandermast.com,"Essen, Belgium",1,0,0,39,NULL,NULL
+719,101,04-08-2010 11:28,vaske,04-08-2010 11:28,http://www.milanvasic.com,"Žednik, Serbia",0,0,0,30,NULL,NULL
+720,101,04-08-2010 11:32,KdgDev,18-12-2013 17:50,NULL,"Ghent, Belgium",0,0,0,26,NULL,NULL
+721,121,04-08-2010 12:25,Pratik Deoghare,26-03-2014 22:02,http://pratikdeoghare.github.com,India,3,7,0,NULL,NULL,NULL
+722,113,04-08-2010 12:31,matiasf,04-11-2013 10:12,NULL,NULL,1,1,0,NULL,NULL,NULL
+723,101,04-08-2010 12:57,Mel Gerats,19-12-2011 18:12,http://www.google.com,Belgium,0,0,0,34,NULL,NULL
+724,101,04-08-2010 13:04,adolf garlic ,22-05-2012 11:21,http://useit.com,europe,1,0,0,NULL,NULL,NULL
+725,101,04-08-2010 14:03,Kubi,04-08-2010 14:03,NULL,Cyprus,0,0,0,NULL,NULL,NULL
+726,185,04-08-2010 14:12,Wilduck,07-01-2014 17:07,http://people.reed.edu/~swansone,Minnesota,9,24,0,26,NULL,NULL
+727,101,04-08-2010 14:14,Jim,04-04-2012 13:17,http://www.unitoops.com,Connecticut,1,0,0,NULL,NULL,NULL
+728,101,04-08-2010 14:34,Roman Kagan,19-04-2013 18:02,http://www.romankagan.com,Michigan,0,0,0,45,NULL,NULL
+729,136,04-08-2010 14:46,Mark M. Fredrickson,08-09-2014 17:05,http://www.markmfredrickson.com,NULL,10,1,0,NULL,NULL,NULL
+732,151,04-08-2010 15:10,Abhijit,29-01-2014 20:19,NULL,"Germantown, MD",9,1,0,43,NULL,NULL
+733,101,04-08-2010 15:16,Alex Bliskovsky,23-03-2011 12:26,http://bethesdatech.net,"Bethesda, MD",2,0,0,22,NULL,NULL
+734,101,04-08-2010 15:51,DumbCoder,09-05-2013 13:45,NULL,"London, United Kingdom",8,1,0,NULL,NULL,NULL
+735,101,04-08-2010 16:02,Sean Vieira,08-09-2014 15:21,http://www.dedeodesigns.com/,"Alexandria, VA",0,4,0,28,NULL,NULL
+736,101,04-08-2010 16:06,snitzr,12-04-2012 15:24,http://www.aaronsnitzer.com,"Washington, DC",1,0,0,31,NULL,NULL
+737,93,04-08-2010 16:51,gmatt,26-08-2014 19:08,NULL,NULL,3,1,0,NULL,NULL,NULL
+738,131,04-08-2010 16:51,Neil Kodner,03-12-2012 19:45,http://www.twitter.com/neilkod,"Salt Lake City, UT",8,6,0,43,NULL,NULL
+739,106,04-08-2010 16:56,McPeterson,18-09-2013 22:59,NULL,California,9,2,0,33,NULL,NULL
+740,305,04-08-2010 16:59,casperOne,29-07-2014 18:25,http://www.caspershouse.com,"Brooklyn, NY",92,41,2,39,NULL,NULL
+741,262,04-08-2010 18:04,Cerin,24-08-2014 23:34,NULL,United States,20,6,0,32,NULL,NULL
+742,101,04-08-2010 18:09,Corey Ogburn,15-08-2014 20:12,http://www.coreyogburn.com,"Oklahoma City, OK",0,0,0,25,NULL,NULL
+743,235,04-08-2010 18:21,Seth,27-05-2014 17:02,http://www.ipoweranalytics.com,"Fair Oaks, CA",13,26,0,40,NULL,NULL
+744,101,04-08-2010 19:24,Robert Karl,27-06-2013 00:35,http://hipmunk.com,San Francisco,1,0,0,26,NULL,NULL
+745,101,04-08-2010 19:44,Sepehr Lajevardi,13-08-2010 12:33,http://sepehr.ws/,"Tehran, Iran",1,0,0,28,NULL,NULL
+746,101,04-08-2010 20:11,merv,13-08-2010 14:41,NULL,United States,0,2,0,32,NULL,NULL
+747,143,04-08-2010 20:48,waiwai933,17-01-2014 11:37,NULL,"Cambridge, UK",4,3,0,19,NULL,NULL
+748,101,04-08-2010 20:59,freiheit,23-11-2010 00:29,http://eric.eisenhart.name/,"Santa Rosa, CA",0,0,0,NULL,http://i.stack.imgur.com/PB7uH.jpg,PB7uH.jpg
+749,292,04-08-2010 21:00,Adal,16-01-2014 22:21,NULL,"Bucharest, Romania",35,6,0,NULL,NULL,NULL
+751,101,04-08-2010 21:54,Jed Daniels,04-08-2010 21:54,http://www.jeddaniels.com,California,0,0,0,36,NULL,NULL
+753,101,05-08-2010 00:23,Lèse majesté,20-01-2013 02:27,http://resilien7.com,California,34,3,0,29,NULL,NULL
+754,101,05-08-2010 01:08,AshleysBrain,05-08-2010 01:08,http://www.scirra.com,NULL,0,0,0,NULL,NULL,NULL
+755,101,05-08-2010 02:03,cemerick,05-08-2010 02:03,NULL,NULL,0,0,0,NULL,NULL,NULL
+760,168,05-08-2010 10:03,nimcap,02-06-2014 16:33,NULL,NULL,13,13,0,NULL,NULL,NULL
+762,48,05-08-2010 11:59,Statec,20-09-2011 14:11,NULL,NULL,7,1,0,NULL,NULL,NULL
+764,101,05-08-2010 13:05,Abhinav Sarkar,05-08-2010 19:03,NULL,"Bangalore, India",0,1,0,29,NULL,NULL
+765,86,05-08-2010 13:34,Simon Andrews,06-08-2010 15:21,http://www.bioinformatics.babraham.ac.uk,United Kingdom,11,0,0,NULL,NULL,NULL
+767,66,05-08-2010 15:22,gregor,03-09-2014 23:50,NULL,Austria,9,1,0,NULL,NULL,NULL
+768,101,05-08-2010 15:36,JohannesH,27-03-2012 02:26,http://johannes.hansen.name/,"Næstved, Denmark",7,1,0,34,NULL,NULL
+770,139,05-08-2010 17:28,Etiennebr,03-07-2014 13:09,NULL,NULL,13,61,0,NULL,NULL,NULL
+771,101,05-08-2010 17:43,las3rjock,20-02-2013 18:38,NULL,"Ann Arbor, MI",1,0,0,35,NULL,NULL
+772,101,05-08-2010 17:55,Ryan Cox,30-09-2010 01:21,http://www.asciiarmor.com,"Seattle, WA",1,0,0,NULL,NULL,NULL
+774,101,05-08-2010 19:14,Kai Chan,11-06-2014 05:35,NULL,NULL,0,1,0,NULL,NULL,NULL
+775,436,05-08-2010 19:24,Ian Boyd,20-10-2013 13:06,NULL,California,24,5,0,41,NULL,NULL
+776,1895,05-08-2010 19:40,Brandon Bertelsen,29-08-2014 15:46,http://www.bertelsen.ca,"Toronto, Canada",312,225,1,33,NULL,NULL
+777,101,05-08-2010 19:41,Georgy Bolyuba,05-08-2010 19:41,NULL,Czech Republic,0,0,0,32,NULL,NULL
+778,311,05-08-2010 20:34,Roland Kofler,06-04-2014 10:40,http://objektorient.blogspot.com/,"Bolzano, Italy",36,49,0,39,http://i.stack.imgur.com/MwRvs.jpg,MwRvs.jpg
+779,103,05-08-2010 21:21,George W Bush,19-01-2013 18:38,http://www.rubicite.com,"Ubehebe Crater, CA",0,1,1,93,http://i.stack.imgur.com/hDGuY.jpg,hDGuY.jpg
+780,101,05-08-2010 21:46,Jon Hadley,06-08-2010 08:54,http://jon-hadley.com,United Kingdom,0,1,0,36,NULL,NULL
+781,566,06-08-2010 00:29,Wesley Burr,10-09-2014 07:08,NULL,"Ontario, Canada",78,9,1,32,NULL,NULL
+782,141,06-08-2010 02:22,Davorak,10-02-2014 18:34,NULL,NULL,0,5,0,NULL,NULL,NULL
+785,101,06-08-2010 04:47,Vikas,26-11-2010 04:20,http://in.linkedin.com/in/vikaskanani,India,1,0,0,29,NULL,NULL
+786,101,06-08-2010 07:03,Tuomas Hietanen,10-01-2014 11:01,http://www.iki.fi/thorium/,Finland,1,0,0,36,NULL,NULL
+787,111,06-08-2010 07:08,TheSteve0,30-06-2011 07:57,http://thesteve0.wordpress.com,"San Jose, CA",3,2,0,45,NULL,NULL
+789,151,06-08-2010 07:43,Andrew Walker,03-09-2014 10:59,http://dropbearcode.blogspot.com/,"Melbourne, Australia",11,2,0,34,http://i.stack.imgur.com/4bZ01.jpg,4bZ01.jpg
+791,123,06-08-2010 13:56,rengis,20-07-2014 09:27,NULL,Earth,8,20,0,NULL,NULL,NULL
+793,101,06-08-2010 14:22,Richard Gadsden,28-02-2014 11:42,http://richard.gadsden.name/,"Manchester, United Kingdom",0,0,0,41,NULL,NULL
+795,5606,06-08-2010 18:53,shabbychef,13-09-2014 19:38,http://twitter.com/shabbychef,"San Francisco, CA",967,1547,8,40,NULL,NULL
+797,101,06-08-2010 21:02,dimatura,08-06-2014 22:42,NULL,Chile,1,0,0,NULL,NULL,NULL
+798,101,06-08-2010 22:19,Craig,06-08-2010 22:19,NULL,New Zealand,0,1,0,40,NULL,NULL
+799,103,07-08-2010 03:40,Shelwien,13-02-2013 00:24,http://ctxmodel.net,Ukraine,7,0,0,37,NULL,NULL
+800,244,07-08-2010 05:59,Enno Shioji,25-08-2014 08:58,http://eshioji.co.uk,"London, United Kingdom",18,15,0,NULL,NULL,NULL
+801,111,07-08-2010 06:37,nimrodm,16-03-2014 18:37,http://www.flickr.com/photos/nimrodm/,"Tel Aviv, Israel",6,3,0,42,NULL,NULL
+802,101,07-08-2010 06:40,nabeelmukhtar,26-03-2014 10:44,NULL,NULL,2,0,0,37,NULL,NULL
+803,118,07-08-2010 06:51,balalakshmi,11-03-2013 05:49,NULL,NULL,13,0,0,NULL,NULL,NULL
+805,65272,07-08-2010 08:40,Glen_b,14-09-2014 03:01,http://none,I'm right here,5680,7035,143,13,NULL,NULL
+806,111,07-08-2010 11:41,aurora1625,08-12-2012 06:51,NULL,NULL,3,0,0,NULL,NULL,NULL
+807,123,07-08-2010 12:38,Rui Vieira,09-09-2014 21:29,http://ruivieira.org,"London, United Kingdom",5,14,0,39,NULL,NULL
+808,101,07-08-2010 13:00,Karol Piczak,27-08-2014 17:01,http://karol.piczak.com,"Warsaw, Poland",8,27,0,27,https://www.gravatar.com/avatar/8b029ab8275cf08b3ae2cd5742080f36?s=128&d=identicon&r=PG,NULL
+809,116,07-08-2010 13:25,zenna,03-07-2014 12:35,NULL,NULL,6,0,0,NULL,NULL,NULL
+812,628,07-08-2010 15:20,Ming-Chih Kao,20-07-2014 20:28,http://wnlreason.com,"Palo Alto, CA",98,215,2,38,NULL,NULL
+813,101,07-08-2010 16:14,julien,07-08-2014 09:58,http://www.netvibes.com/jgaffuri,"Silea, Italy",0,2,0,20,NULL,NULL
+814,101,07-08-2010 18:27,Cumbayah,05-03-2012 20:53,NULL,Denmark,0,0,0,41,NULL,NULL
+816,101,07-08-2010 23:40,Tony Arkles,17-09-2013 18:53,http://blog.chilly.ca,"Saskatoon, Canada",0,0,0,31,NULL,NULL
+819,101,08-08-2010 06:23,shadyabhi,08-08-2010 06:23,http://blog.abhijeetr.com,India,0,0,0,25,NULL,NULL
+821,101,08-08-2010 14:52,stacker,15-02-2011 09:11,NULL,NULL,1,0,0,NULL,NULL,NULL
+822,101,08-08-2010 16:11,AshtonKJ,03-03-2011 19:58,http://namelessinteractive.com,South Africa,0,0,0,30,NULL,NULL
+823,101,08-08-2010 18:09,DrFalk3n,03-02-2011 11:29,http://it.linkedin.com/in/cesaredellefratte,Italy,1,0,0,39,NULL,NULL
+825,138,08-08-2010 23:28,Anthony Kong,24-08-2014 02:42,http://anthonykong.tumblr.com/,Australia,7,1,0,NULL,NULL,NULL
+826,101,09-08-2010 00:24,jpwatts,08-09-2012 01:36,http://joelwatts.com/,"Houston, TX",0,0,0,33,NULL,NULL
+827,262,09-08-2010 00:50,TMOD,04-09-2014 07:45,http://datalove.org,NULL,22,6,0,NULL,NULL,NULL
+828,101,09-08-2010 09:23,amarillion,01-08-2014 11:24,http://www.helixsoft.nl/blog,Netherlands,0,0,0,35,NULL,NULL
+829,101,09-08-2010 09:24,ala,09-08-2010 09:24,http://about.me/nassani,"Christchurch, New Zealand",0,0,0,31,NULL,NULL
+830,830,09-08-2010 10:15,Ｊ. Ｍ.,24-06-2013 00:09,NULL,NULL,174,148,0,NULL,NULL,NULL
+831,101,09-08-2010 11:14,SjB,28-01-2011 18:41,NULL,"Tehran, Iran",1,0,0,26,NULL,NULL
+833,21,09-08-2010 17:58,user833,09-08-2010 17:58,NULL,NULL,0,0,0,NULL,NULL,NULL
+834,136,09-08-2010 18:16,Sarah  ,07-06-2011 18:54,NULL,"Washington, DC",45,8,0,40,NULL,NULL
+835,176,09-08-2010 20:00,Patrick,19-03-2013 15:14,NULL,"Regina, Canada",12,36,0,35,NULL,NULL
+836,101,09-08-2010 20:09,jdk,18-10-2011 03:12,NULL,"Toronto, Canada",2,0,0,42,NULL,NULL
+838,101,09-08-2010 20:28,Crispy,28-02-2014 15:05,NULL,NULL,0,6,0,NULL,NULL,NULL
+839,101,09-08-2010 21:48,Mike,27-08-2014 21:55,NULL,NULL,1,0,0,26,NULL,NULL
+840,259,09-08-2010 22:14,wishihadabettername,21-07-2014 12:13,NULL,NULL,63,19,1,NULL,NULL,NULL
+842,101,09-08-2010 23:55,unutbu,23-07-2014 02:31,NULL,NULL,5,24,0,NULL,NULL,NULL
+844,101,10-08-2010 01:07,Rajasankar,19-10-2011 07:22,http://vrajasankar.blogspot.com/,India,1,0,0,35,NULL,NULL
+845,597,10-08-2010 02:41,dcl,12-09-2014 05:12,NULL,NULL,46,22,0,NULL,NULL,NULL
+846,101,10-08-2010 04:31,Aragorn,15-10-2012 22:26,http://twitter.com/aragorn_elessar,Mexico,3,0,0,NULL,NULL,NULL
+847,591,10-08-2010 04:33,Henry B.,15-01-2014 01:13,NULL,NULL,67,15,0,NULL,NULL,NULL
+850,193,10-08-2010 05:40,Kit,22-10-2012 11:05,http://kitmonisit.com,Philippines,9,10,0,28,NULL,NULL
+851,1075,10-08-2010 06:40,claws,28-03-2014 21:00,NULL,NULL,77,11,1,NULL,NULL,NULL
+852,21,10-08-2010 08:19,RHG,12-08-2010 09:45,NULL,NULL,7,0,0,NULL,NULL,NULL
+855,101,10-08-2010 19:46,botismarius,28-08-2010 15:00,NULL,Romania,2,0,0,NULL,NULL,NULL
+856,51,10-08-2010 20:48,user856,11-08-2010 22:20,NULL,NULL,1,0,0,NULL,NULL,NULL
+857,101,10-08-2010 22:00,Smandoli,20-10-2011 19:30,http://themanthursday.com,"San Marcos, TX",6,0,0,52,NULL,NULL
+858,2834,10-08-2010 22:28,Neil G,13-09-2014 18:11,NULL,NULL,434,333,24,NULL,NULL,NULL
+861,130,11-08-2010 04:04,asad.taj,11-09-2014 09:24,NULL,"Delhi, India",12,2,0,26,NULL,NULL
+862,531,11-08-2010 05:14,user862,30-04-2012 23:16,NULL,NULL,90,2,0,NULL,NULL,NULL
+865,101,11-08-2010 07:29,Ashish,11-08-2010 10:06,http://blog.ashonomics.com/,"Goa, India",1,0,0,25,NULL,NULL
+866,1,11-08-2010 10:49,Michel Klomp,01-09-2011 11:07,http://event-horizon.eu,NULL,3,0,0,NULL,NULL,NULL
+867,11,11-08-2010 12:02,Sam Gledhill,05-09-2010 12:39,http://www.samgledhill.com,Australia,1,0,0,NULL,NULL,NULL
+869,131,11-08-2010 13:24,msw,02-12-2013 16:03,NULL,NULL,3,1,0,NULL,http://i.stack.imgur.com/bmLJq.png,bmLJq.png
+870,257,11-08-2010 13:29,Bryce Thomas,26-04-2014 07:15,http://about.me/brycethomas,"Townsville, Australia",13,7,0,NULL,NULL,NULL
+871,101,11-08-2010 14:07,bill weaver,07-11-2010 17:13,http://bweaver.net,United States,2,3,0,94,NULL,NULL
+872,128,11-08-2010 14:31,ancechu,15-05-2014 15:32,NULL,NULL,5,5,0,NULL,NULL,NULL
+873,451,11-08-2010 15:02,user873,14-07-2014 07:00,NULL,NULL,27,0,0,NULL,NULL,NULL
+876,123,11-08-2010 18:37,Yuck,08-08-2013 23:35,NULL,"Beverly Hills, CA",8,4,0,NULL,NULL,NULL
+877,101,11-08-2010 19:17,mmyers,23-08-2012 18:53,http://www.gamersgate.com/DD-FTG/for-the-glory-a-europa-universalis-game,United States,8,1,0,94,NULL,NULL
+878,101,11-08-2010 19:21,Tamschi,26-05-2011 11:28,NULL,NULL,4,0,0,23,NULL,NULL
+879,101,11-08-2010 21:00,viksit,29-08-2014 19:37,http://viksit.com,"San Francisco, CA",0,2,0,30,NULL,NULL
+880,88,11-08-2010 21:12,Brian,11-08-2010 21:12,NULL,NULL,7,0,0,NULL,NULL,NULL
+881,1118,11-08-2010 21:12,ebony1,19-01-2011 10:18,NULL,NULL,62,6,2,NULL,NULL,NULL
+882,101,26-07-2010 19:45,Marc Gravell,12-06-2014 13:31,http://blog.marcgravell.com,United Kingdom,6,5,0,36,NULL,NULL
+884,101,11-08-2010 23:55,Nick Craver,28-08-2014 17:01,http://nickcraver.com/blog/,"Winston-Salem, NC",3,0,0,29,http://i.stack.imgur.com/nGCYr.jpg,nGCYr.jpg
+887,18187,12-08-2010 07:45,Dikran Marsupial,13-09-2014 13:27,NULL,NULL,1660,230,4,NULL,NULL,NULL
+888,315,12-08-2010 08:08,David,08-09-2014 12:02,NULL,NULL,21,8,0,NULL,NULL,NULL
+890,155,12-08-2010 10:21,Fabian Fagerholm,10-05-2014 12:21,http://www.cs.helsinki.fi/fabian.fagerholm/,Finland,66,23,0,36,NULL,NULL
+891,101,12-08-2010 11:28,Christoph Rüegg,13-10-2010 22:28,http://christoph.ruegg.name/,Switzerland,14,0,0,NULL,NULL,NULL
+892,2772,12-08-2010 12:29,F. Tusell,04-09-2014 12:35,http://www.et.bs.ehu.es/~etptupaf,Spain,207,167,2,NULL,http://i.stack.imgur.com/7syBD.jpg,7syBD.jpg
+894,101,12-08-2010 15:48,Scott Evernden,12-08-2010 15:48,http://enjoy3d.com,"Boston, MA",0,0,0,NULL,NULL,NULL
+899,101,12-08-2010 20:06,G Berdal,12-08-2010 20:06,http://www.georgeberdal.com/,"London, United Kingdom",0,0,0,40,NULL,NULL
+900,1054,12-08-2010 20:48,Xodarap,08-08-2014 18:19,NULL,NULL,87,221,0,NULL,NULL,NULL
+901,101,12-08-2010 22:15,Stedy,11-09-2014 21:49,http://www.example.org/,"Seattle, WA",2,11,0,33,NULL,NULL
+902,101,12-08-2010 22:54,lomaxx,15-02-2011 04:03,http://keypay.com.au,Australia,0,0,0,31,NULL,NULL
+903,128,12-08-2010 23:01,Brent.Longborough,07-08-2014 21:52,http://Toobusy,"Abersychan, United Kingdom",14,4,0,70,NULL,NULL
+906,101,13-08-2010 01:05,Peter,13-08-2010 01:05,http://www.blue-onion.com.au,"Adelaide, Australia",2,0,0,32,NULL,NULL
+909,171,13-08-2010 02:08,Jake,07-08-2014 19:45,http://jakebowers.org,"Urbana, IL",4,3,0,NULL,NULL,NULL
+911,101,13-08-2010 04:45,Jim McKeeth,13-08-2010 04:45,http://www.Delphi.org/,"Boise, ID",0,0,0,41,http://i.stack.imgur.com/zl74R.jpg,zl74R.jpg
+912,101,13-08-2010 08:25,fahadsadah,13-08-2010 08:25,http://pyramid.cluenet.org/~fahad,"London, United Kingdom",0,0,0,18,NULL,NULL
+913,262,13-08-2010 08:46,Tormod ,08-11-2013 10:11,http://tormodboe.wordpress.com/,"Bergen, Norway",27,3,0,36,NULL,NULL
+914,159,13-08-2010 10:13,knorv,01-02-2014 22:38,NULL,NULL,16,7,0,NULL,NULL,NULL
+919,87393,13-08-2010 15:29,whuber,14-09-2014 00:51,http://www.quantdec.com,Northeastern US,20932,11273,779,14,NULL,NULL
+923,101,13-08-2010 17:50,Mohit Jain,13-08-2010 17:50,http://www.codebeerstartups.com/,"Delhi, India",1,0,0,27,NULL,NULL
+926,101,13-08-2010 18:20,Laurent Etiemble,13-08-2010 18:36,http://blog.laurent.etiemble.com,"Paris, France",0,0,0,39,NULL,NULL
+927,21,13-08-2010 18:20,MouseWeasel,22-08-2010 17:33,NULL,NULL,1,0,0,NULL,NULL,NULL
+928,101,13-08-2010 18:34,longda,15-12-2010 03:02,http://davidlong.posterous.com,"Los Angeles, CA",0,0,0,35,NULL,NULL
+929,101,13-08-2010 20:09,Ron DeVera,13-08-2010 20:09,http://www.rondevera.com,United States,0,0,0,NULL,NULL,NULL
+930,31170,13-08-2010 20:50,chl,13-09-2014 20:53,http://www.aliquote.org,"Paris, France",5529,10523,214,40,NULL,NULL
+931,101,13-08-2010 22:21,DixonD,13-08-2010 22:21,http://dixond.blogspot.com/,"Lviv, Ukraine",1,0,0,25,NULL,NULL
+932,101,13-08-2010 22:30,Precipitous,13-08-2010 22:30,NULL,"Seattle, WA",0,0,0,NULL,NULL,NULL
+933,118,13-08-2010 23:26,GollyJer,24-01-2014 15:18,http://www.thegollys.com,United States,0,7,0,37,NULL,NULL
+934,101,14-08-2010 00:06,Matt McHenry,15-02-2014 18:33,http://matt.mchenryfamily.org,"Pittsburgh, PA",0,0,0,NULL,NULL,NULL
+935,101,14-08-2010 00:49,leander,05-01-2013 21:40,NULL,"New York, NY",0,0,0,34,NULL,NULL
+937,115,14-08-2010 03:55,Ants,09-09-2010 17:19,NULL,United States,1,2,0,NULL,NULL,NULL
+938,171,14-08-2010 06:21,Bolo,25-05-2014 18:25,NULL,NULL,15,7,0,NULL,NULL,NULL
+939,131,14-08-2010 08:42,dermatthias,27-02-2014 14:14,NULL,NULL,0,0,0,NULL,NULL,NULL
+940,101,14-08-2010 12:37,Maz,14-08-2010 13:05,NULL,Mars,1,0,0,NULL,NULL,NULL
+941,101,14-08-2010 14:55,Xinus,08-11-2010 05:48,http://oraxle.wordpress.com/,"Pune, India",0,0,0,31,NULL,NULL
+942,151,14-08-2010 17:51,James Scott-Brown,05-04-2014 00:48,http://jamesscottbrown.com,NULL,4,0,0,NULL,NULL,NULL
+944,126,14-08-2010 19:37,Carlos Scheidegger,22-05-2014 21:52,http://cscheid.net,"Madison, NJ",6,2,0,33,NULL,NULL
+945,123,14-08-2010 19:56,Mathias,31-07-2014 19:22,http://www.clear-lines.com/blog,"San Francisco, CA",9,19,0,41,NULL,NULL
+948,101,15-08-2010 01:26,jbapple,20-05-2014 14:47,NULL,NULL,0,1,0,NULL,NULL,NULL
+952,14,15-08-2010 13:46,user952,05-10-2010 14:49,NULL,NULL,2,0,0,NULL,NULL,NULL
+954,101,15-08-2010 15:38,knowtheory,22-11-2010 13:41,http://blog.knowtheory.net,NULL,2,0,0,NULL,NULL,NULL
+955,101,15-08-2010 15:47,n0vakovic,28-06-2012 02:08,NULL,"Belgrade, Serbia",0,0,0,29,NULL,NULL
+956,218,15-08-2010 16:33,nikie,11-09-2014 06:00,NULL,"Munich, Germany",14,47,1,36,NULL,NULL
+957,135,15-08-2010 17:25,mankoff,13-08-2013 22:39,http://kenmankoff,"NYC, WHOI, or Antarctica",35,1,0,37,NULL,NULL
+959,326,15-08-2010 23:40,Alexandre Passos,27-08-2014 05:27,http://www.ic.unicamp.br/~tachard/,"Sao Paulo, Brazil",19,1,0,28,NULL,NULL
+960,101,16-08-2010 04:52,nav,08-08-2013 08:51,NULL,NULL,0,0,0,NULL,NULL,NULL
+961,620,16-08-2010 06:16,Andre Holzner,15-08-2014 11:47,http://aholzner.wordpress.com,NULL,73,86,3,NULL,NULL,NULL
+962,43,16-08-2010 11:33,Elaine Kuo,06-05-2013 00:20,NULL,NULL,13,1,0,NULL,NULL,NULL
+963,101,16-08-2010 11:58,bcml,16-08-2010 15:01,NULL,Europe,0,0,0,NULL,http://i.stack.imgur.com/ytgvp.jpg,ytgvp.jpg
+966,1290,16-08-2010 15:19,Matt Albrecht,08-10-2013 09:32,NULL,"Perth, Australia",137,244,0,NULL,NULL,NULL
+968,108,16-08-2010 17:34,Paul Sasik,03-10-2013 18:41,http://stackoverflow.com/users/47550/paul-sasik,"Minneapolis, MN",3,10,0,41,NULL,NULL
+970,101,16-08-2010 18:17,harald,16-08-2010 18:17,http://www.octris.org/,Germany,1,0,0,39,NULL,NULL
+971,101,16-08-2010 19:00,Darel,05-07-2012 03:56,NULL,"Needham, MA",0,0,0,45,NULL,NULL
+972,150,16-08-2010 19:31,Rafael S. Calsaverini,30-07-2014 19:16,http://arsphysica.wordpress.com,"Sao Paulo, Brazil",9,5,1,32,NULL,NULL
+973,101,16-08-2010 21:57,Jukka Suomela,10-09-2014 17:32,http://www.iki.fi/suo/,Finland,3,3,0,NULL,NULL,NULL
+976,239,17-08-2010 06:31,lmsasu,13-09-2014 18:28,http://cs.unitbv.ro/~lmsasu,Romania,20,63,0,37,NULL,NULL
+977,423,17-08-2010 09:04,Björn Pollex,20-08-2014 09:14,http://careers.stackoverflow.com/bjoernpollex,"Berlin, Germany",65,13,0,31,NULL,NULL
+978,101,17-08-2010 09:49,rusvdw,17-08-2010 12:16,http://blog.ruski.co.za,South Africa,0,1,0,36,NULL,NULL
+979,261,17-08-2010 12:01,user979,23-05-2014 07:40,NULL,"Berlin, Germany",31,12,0,36,NULL,NULL
+980,101,17-08-2010 15:32,keturn,11-09-2013 11:22,http://keturn.net/,United States,1,0,0,34,NULL,NULL
+981,101,17-08-2010 17:10,falagar,17-08-2010 17:10,http://spbtc.ru,"St. Petersburg, Russia",1,0,0,28,NULL,NULL
+982,101,17-08-2010 17:49,Greg,26-12-2013 12:16,NULL,NULL,2,2,0,NULL,NULL,NULL
+983,101,17-08-2010 18:43,Nate Noonen,09-12-2013 23:40,http://flipflopsnowman.blogspot.com,"Chicago, IL",0,0,0,31,NULL,NULL
+985,101,18-08-2010 02:42,Jamie Banks,09-10-2012 21:03,http://mathinthewild.wordpress.com,"Cambridge, MA",15,2,0,24,NULL,NULL
+986,148,18-08-2010 08:13,nisc,26-11-2011 17:29,http://nkls.schmckr.de,Berlin,8,3,0,NULL,NULL,NULL
+988,168,18-08-2010 13:28,Belmont,07-05-2012 11:01,NULL,NULL,61,31,0,NULL,NULL,NULL
+989,101,18-08-2010 14:18,user989,09-09-2014 16:11,NULL,NULL,2,0,0,NULL,NULL,NULL
+990,147,18-08-2010 14:41,Hugo S Ferreira,04-09-2014 00:26,http://mindcode.org,"Porto, Portugal",46,11,0,34,NULL,NULL
+991,143,18-08-2010 16:42,James Skidmore,26-08-2013 20:16,http://www.jamesskidmore.com,"Dallas, TX",5,1,0,25,NULL,NULL
+993,28,19-08-2010 00:27,user993,08-11-2010 18:49,NULL,NULL,1,3,0,NULL,NULL,NULL
+994,323,19-08-2010 00:58,KalEl,08-09-2014 13:06,NULL,NULL,65,9,1,33,NULL,NULL
+995,196,19-08-2010 02:23,Dimitry L,01-02-2012 00:07,NULL,"New Orleans, LA",10,4,0,27,NULL,NULL
+996,364,19-08-2010 04:41,DavidShor,13-09-2014 19:10,NULL,NULL,68,10,0,NULL,NULL,NULL
+997,198,19-08-2010 04:45,Paul Murray,16-02-2011 06:31,http://paulmurray.id.au,"Canberra, Australia",25,0,0,NULL,NULL,NULL
+998,101,19-08-2010 06:26,Gaurav,14-04-2014 20:56,http://www.ggvaidya.com/,"Boulder, CO",0,0,0,30,NULL,NULL
+1000,101,19-08-2010 09:23,crazysim,15-02-2011 02:59,NULL,NULL,2,1,0,NULL,NULL,NULL
+1001,111,19-08-2010 11:22,Paul Biggar,27-08-2013 01:25,http://circleci.com,"San Francisco, CA",2,2,0,33,NULL,NULL
+1004,136,19-08-2010 15:01,acarchau,29-03-2014 01:11,NULL,NULL,6,2,0,NULL,NULL,NULL
+1005,3679,19-08-2010 15:31,Tim,09-09-2014 18:01,NULL,NULL,870,325,0,NULL,NULL,NULL
+1007,444,19-08-2010 16:06,laramichaels,07-10-2010 10:22,NULL,California,264,8,0,NULL,NULL,NULL
+1010,101,19-08-2010 17:31,Sparafusile,21-05-2013 18:50,http://localhost/,"Greenwood, IN",1,0,0,32,NULL,NULL
+1011,191,19-08-2010 19:35,phv3773,24-08-2010 19:30,NULL,NULL,9,0,0,NULL,NULL,NULL
+1013,96,19-08-2010 20:52,Robert J. Grissom,07-01-2011 20:30,NULL,NULL,18,0,0,NULL,NULL,NULL
+1014,101,19-08-2010 21:04,FerranB,12-03-2011 01:58,NULL,NULL,0,0,0,NULL,NULL,NULL
+1015,101,19-08-2010 21:20,Kimble,19-08-2010 21:20,http://blog.developer-b.com/,"Oslo, Norway",1,0,0,29,NULL,NULL
+1016,111,19-08-2010 23:42,om_henners,26-08-2014 14:10,NULL,NULL,1,8,0,NULL,NULL,NULL
+1017,101,20-08-2010 00:51,Josh Leitzel,10-02-2014 17:21,http://twitter.com/joshleitzel,Nomad,2,13,0,24,NULL,NULL
+1019,119,20-08-2010 05:24,pageman,01-08-2011 18:03,http://quadraforte.com,"Manila, Philippines",6,10,0,NULL,NULL,NULL
+1021,167,20-08-2010 14:26,crippledlambda,13-09-2014 21:47,NULL,NULL,4,29,0,NULL,NULL,NULL
+1024,58,20-08-2010 17:05,T-Burns,09-12-2010 19:46,NULL,"Boston, MA",12,0,0,NULL,NULL,NULL
+1025,136,20-08-2010 18:30,WhitAngl,05-11-2013 18:59,http://people.seas.harvard.edu/~nbonneel/,"Cambridge, MA",4,0,0,31,NULL,NULL
+1026,167,20-08-2010 19:02,John Berryman,04-09-2013 20:52,NULL,NULL,10,8,0,NULL,NULL,NULL
+1027,156,20-08-2010 19:36,nullglob,06-06-2014 09:33,NULL,Denmark,2,4,0,31,NULL,NULL
+1028,360,20-08-2010 20:37,Dason,13-12-2011 16:23,http://forums.xkcd.com/memberlist.php?mode=viewprofile&u=64891,"Ames, IA",45,30,2,28,NULL,NULL
+1029,28,20-08-2010 21:42,user1029,02-09-2010 23:59,NULL,NULL,2,0,0,NULL,NULL,NULL
+1030,101,21-08-2010 04:23,Charlie Martin,28-02-2012 22:51,http://explorations.chasrmartin.com,United States,2,0,0,59,NULL,NULL
+1032,101,21-08-2010 16:01,Hendrik Brummermann,06-07-2011 11:46,NULL,NULL,4,2,0,NULL,NULL,NULL
+1033,130,21-08-2010 21:27,eric.a.booth,10-07-2013 17:15,NULL,"College Station, TX",8,0,1,33,NULL,NULL
+1034,26,21-08-2010 22:48,ivansml,06-09-2010 14:44,NULL,NULL,4,0,0,NULL,NULL,NULL
+1035,106,21-08-2010 22:57,Lorin Hochstein,19-04-2014 03:30,http://lorinhochstein.org,"East Greenwich, RI",6,2,0,NULL,NULL,NULL
+1036,8236,22-08-2010 00:22,Andy W,13-09-2014 22:04,http://andrewpwheeler.wordpress.com/,"Albany, NY",1305,11442,43,29,NULL,NULL
+1040,101,22-08-2010 04:07,wormintrude,28-10-2010 14:26,NULL,"Buenos Aires, Argentina",2,0,0,31,NULL,NULL
+1041,101,22-08-2010 04:07,Abhinav,22-08-2010 04:07,http://www.employees.org/~abhinav/blog,"Bangalore, India",0,0,0,34,NULL,NULL
+1043,55,22-08-2010 14:07,Gong-Yi Liao,26-01-2014 02:59,http://about.me/LiaoGongYi,"Mansfield, CT",37,2,0,NULL,NULL,NULL
+1047,31,22-08-2010 17:50,mef,10-09-2014 18:47,NULL,NULL,0,2,0,NULL,NULL,NULL
+1048,468,22-08-2010 19:22,xmjx,19-08-2014 14:03,NULL,NULL,135,28,0,NULL,NULL,NULL
+1049,106,22-08-2010 19:45,Ivan Cherevko,24-08-2010 19:07,http://www.cherevko.net,"Kiev, Ukraine",6,0,0,23,NULL,NULL
+1050,478,22-08-2010 20:21,EDi,11-09-2014 14:38,http://edild.github.com/,Germany,53,39,2,NULL,NULL,NULL
+1053,101,23-08-2010 00:08,Ninefingers,24-09-2013 18:42,NULL,NULL,0,0,0,NULL,http://i.stack.imgur.com/3WUyu.png,3WUyu.png
+1054,131,23-08-2010 00:31,dank,09-08-2012 11:38,NULL,Canada,5,0,0,NULL,NULL,NULL
+1056,21,23-08-2010 08:16,Krisrs1128,27-09-2011 17:02,NULL,"Stanford, CA",2,0,0,NULL,NULL,NULL
+1059,101,23-08-2010 12:41,altCognito,13-06-2014 19:58,http://cgpsoftware.thepalls.com,"Ann Arbor, MI",0,7,0,39,NULL,NULL
+1063,101,23-08-2010 16:14,Rahul Vyas,23-08-2010 16:14,http://www.jainmarket.blogspot.com,"Bikaner, India",0,0,0,29,NULL,NULL
+1064,101,23-08-2010 16:20,S.Skov,01-12-2010 19:35,http://www.xteprofiler.com,Denmark,0,1,0,NULL,NULL,NULL
+1065,111,23-08-2010 16:21,Christopher Schmidt,10-11-2013 23:46,http://crschmidt.net/,"Cambridge, MA",7,6,0,30,NULL,NULL
+1066,101,23-08-2010 17:10,Matt Mizumi,09-08-2014 17:13,http://www.tc.umn.edu/~vande642,"Minneapolis, MN",10,0,0,34,NULL,NULL
+1068,31,23-08-2010 18:26,Gary Campbell,23-08-2010 18:54,NULL,"Edinburgh, United Kingdom",4,0,0,NULL,NULL,NULL
+1069,101,23-08-2010 18:29,TML,29-05-2014 14:40,NULL,"Orem, UT",0,0,0,NULL,NULL,NULL
+1072,126,23-08-2010 23:13,Moritz,12-09-2010 14:15,NULL,NULL,6,0,0,NULL,NULL,NULL
+1073,101,23-08-2010 23:22,Eike,24-08-2010 15:49,NULL,Germany,3,0,0,45,NULL,NULL
+1074,101,24-08-2010 02:44,andrewj,03-07-2013 19:56,NULL,NULL,1,2,0,NULL,NULL,NULL
+1075,213,24-08-2010 08:40,Alexey Kalmykov,01-04-2014 20:09,NULL,NULL,28,26,1,NULL,NULL,NULL
+1076,101,24-08-2010 15:27,user1076,13-10-2010 19:41,NULL,"Durham, NC",4,18,0,32,NULL,NULL
+1077,444,24-08-2010 16:15,Ηλίας,26-08-2014 22:59,NULL,NULL,222,50,0,NULL,NULL,NULL
+1079,192,24-08-2010 19:04,dnagirl,08-09-2014 12:23,NULL,"Halifax, Canada",33,8,0,NULL,NULL,NULL
+1080,1597,25-08-2010 04:36,Josh Hemann,10-09-2014 16:36,NULL,"Boulder, CO",188,81,1,NULL,NULL,NULL
+1082,106,25-08-2010 12:19,schnizzl,29-08-2011 15:57,NULL,NULL,11,5,0,NULL,NULL,NULL
+1083,101,25-08-2010 13:13,rem,04-10-2011 09:04,NULL,NULL,0,1,0,NULL,NULL,NULL
+1084,276,25-08-2010 14:11,Adam SA,15-05-2014 01:48,NULL,Connecticut,45,42,1,NULL,NULL,NULL
+1085,101,25-08-2010 16:26,Sander,27-08-2010 09:42,http://stackoverflow.com/users/109341/sander,"Bruges, Belgium",2,0,0,32,NULL,NULL
+1087,101,25-08-2010 19:26,Jimmy Hoffa,25-08-2010 19:26,NULL,NULL,1,0,0,NULL,NULL,NULL
+1088,38,25-08-2010 20:48,nuin,28-04-2014 18:12,NULL,NULL,4,6,0,NULL,NULL,NULL
+1090,93,25-08-2010 22:34,James Davison,14-07-2011 03:04,NULL,NULL,16,0,0,NULL,NULL,NULL
+1091,39,26-08-2010 07:43,Kamixave,19-08-2014 12:47,NULL,NULL,10,1,0,NULL,NULL,NULL
+1092,101,26-08-2010 09:01,ibz,26-08-2010 09:01,http://ibz.me,"Yogyakarta, Indonesia",1,0,0,30,NULL,NULL
+1094,23,26-08-2010 09:24,Rich Nicholson,25-06-2013 22:36,NULL,"Surrey, United Kingdom",5,0,0,39,http://i.stack.imgur.com/7hR5X.jpg,7hR5X.jpg
+1098,305,26-08-2010 17:19,Vass,14-08-2014 10:39,http://www.bioss.ac.uk/students/alexm.html,United Kingdom,48,69,0,32,NULL,NULL
+1099,1,26-08-2010 17:39,sushant,11-12-2011 18:58,NULL,"Pune, India",0,0,0,NULL,NULL,NULL
+1100,101,26-08-2010 19:28,matthew.perron,26-08-2010 19:28,NULL,"Montreal, Canada",1,0,0,31,NULL,NULL
+1101,101,26-08-2010 21:24,Troggy,24-08-2013 22:40,http://superuser.com,United States,5,4,0,33,NULL,NULL
+1102,329,26-08-2010 22:47,Pupil,17-09-2013 22:41,NULL,NULL,55,15,0,NULL,NULL,NULL
+1103,101,26-08-2010 23:58,D W,03-12-2010 18:25,NULL,NULL,1,1,0,NULL,NULL,NULL
+1104,100,27-08-2010 06:41,Imran,20-08-2014 20:40,NULL,NULL,0,10,1,30,NULL,NULL
+1105,296,27-08-2010 09:58,Turukawa,03-05-2012 21:15,http://www.whythawk.com/,"Oxford, United Kingdom",7,1,0,40,NULL,NULL
+1106,2410,27-08-2010 19:17,raegtin,02-09-2014 01:58,NULL,NULL,140,202,2,NULL,NULL,NULL
+1107,506,27-08-2010 20:32,Kingsford Jones,29-04-2011 08:38,NULL,NULL,87,35,1,NULL,NULL,NULL
+1108,3555,28-08-2010 02:26,G. Jay Kerns,12-04-2013 20:49,http://people.ysu.edu/~gkerns/,"Youngstown, OH",386,347,1,NULL,NULL,NULL
+1109,101,28-08-2010 03:22,OJ.,28-08-2010 03:22,http://buffered.io/,Australia,0,0,0,36,NULL,NULL
+1110,101,28-08-2010 21:48,user1110,28-08-2010 21:48,NULL,NULL,1,0,0,NULL,NULL,NULL
+1112,326,29-08-2010 01:56,ronaf,14-08-2011 21:09,NULL,NULL,36,24,0,NULL,NULL,NULL
+1113,101,29-08-2010 04:58,squelart,29-08-2010 04:58,NULL,"Melbourne, Australia",1,0,0,41,NULL,NULL
+1114,121,29-08-2010 14:32,memilanuk,29-08-2014 19:54,NULL,"Wenatchee, WA",9,1,0,NULL,NULL,NULL
+1115,101,29-08-2010 19:16,Mihai Limbășan,22-09-2012 11:29,http://no.steenking.blog.here/,"Cluj-Napoca, Romania",0,0,0,37,NULL,NULL
+1117,195,29-08-2010 22:50,rapidadverbssuck,12-09-2014 18:06,NULL,NULL,9,6,0,NULL,NULL,NULL
+1118,935,30-08-2010 04:43,Christopher Aden,30-08-2014 20:23,NULL,"Davis, CA",278,88,2,25,NULL,NULL
+1119,678,30-08-2010 13:36,Joe,08-09-2014 03:50,NULL,NULL,28,10,0,35,NULL,NULL
+1120,113,30-08-2010 19:37,David Hollman,02-11-2011 19:23,http://www.ccc.uga.edu,"Athens, GA",5,1,0,27,NULL,NULL
+1121,130,30-08-2010 23:36,user1121,19-09-2012 20:23,NULL,NULL,10,6,0,NULL,NULL,NULL
+1122,1544,31-08-2010 00:32,Keith Winstein,04-02-2014 02:35,NULL,NULL,196,0,0,NULL,NULL,NULL
+1123,101,31-08-2010 05:36,Jonn,18-10-2010 05:18,http://jonnlouielim.com,Philippines,0,0,0,NULL,NULL,NULL
+1124,3000,31-08-2010 10:07,Joris Meys,05-09-2014 12:34,http://biomath.ugent.be/biomath/index.php,"Ghent, Belgium",456,140,7,37,NULL,NULL
+1125,101,31-08-2010 11:22,Nakilon,10-09-2014 15:58,NULL,Ukraine,0,0,0,NULL,NULL,NULL
+1126,299,31-08-2010 11:43,xiaodai,12-09-2014 04:19,NULL,"Sydney, Australia",30,9,2,NULL,https://www.gravatar.com/avatar/9e51a2308408220f51b1327a4c3e0976?s=128&d=identicon&r=PG&f=1,NULL
+1127,148,31-08-2010 15:18,Jonathan Shore,31-03-2014 17:58,NULL,"London, United Kingdom",25,0,0,NULL,NULL,NULL
+1130,101,31-08-2010 23:15,Jichao,09-11-2010 03:43,http://singwine.com,China,1,0,0,25,NULL,NULL
+1131,101,31-08-2010 23:48,CanSpice,08-09-2010 18:47,http://www.canspice.org,"Vancouver, Canada",0,0,0,39,NULL,NULL
+1133,3,01-09-2010 09:46,Cadu,01-09-2010 17:06,NULL,NULL,2,0,0,NULL,NULL,NULL
+1134,93,01-09-2010 09:58,bart,29-05-2012 13:46,NULL,NULL,31,1,0,NULL,NULL,NULL
+1135,116,01-09-2010 12:05,Programmer,01-09-2010 12:05,NULL,NULL,4,0,0,NULL,NULL,NULL
+1136,101,01-09-2010 13:52,willjcroz,26-01-2011 20:06,NULL,United Kingdom,1,0,0,NULL,NULL,NULL
+1137,173,01-09-2010 14:22,CptanPanic,07-09-2010 19:55,NULL,NULL,4,0,0,NULL,NULL,NULL
+1138,169,01-09-2010 16:38,patrickmdnet,07-04-2014 22:37,http://patrickmd.net/blog/,United States,5,15,0,38,NULL,NULL
+1141,148,01-09-2010 21:01,SaveTheRbtz,24-01-2013 04:16,http://yandex.ru/search,Russia,11,2,0,27,NULL,NULL
+1142,100,01-09-2010 21:07,Rebecca Chernoff,26-10-2012 19:25,http://rebecca.chernoff.com,"St Louis, MO",48,1,1,30,NULL,NULL
+1144,246,02-09-2010 00:43,David Roberts,23-11-2012 04:46,http://ncatlab.org/davidroberts/show/HomePage,"Adelaide, Australia",95,30,0,31,NULL,NULL
+1146,1086,02-09-2010 01:44,John Salvatier,31-07-2014 02:40,NULL,NULL,189,73,6,NULL,NULL,NULL
+1147,101,02-09-2010 05:43,darkcanuck,24-08-2011 23:18,NULL,NULL,1,2,0,NULL,NULL,NULL
+1148,66,02-09-2010 07:07,Gil Kalai,16-04-2014 17:49,http://gilkalai.wordpress.com/,"Jerusalem, Israel",82,4,0,NULL,NULL,NULL
+1149,101,02-09-2010 08:42,demonkoryu,26-06-2014 07:06,https://google.com/,"Dortmund, Germany",0,1,0,32,http://i.stack.imgur.com/aZPd1.png,aZPd1.png
+1150,585,02-09-2010 10:18,danielsbrewer,16-06-2014 13:08,NULL,NULL,56,25,0,NULL,NULL,NULL
+1151,101,02-09-2010 10:20,Kiran Kuppa,29-08-2014 00:40,NULL,NULL,6,1,0,NULL,NULL,NULL
+1152,101,02-09-2010 12:35,Jonhnny Weslley,04-11-2013 20:24,http://jonhnnyweslley.net,Brazil,1,0,0,28,NULL,NULL
+1153,1,02-09-2010 13:31,runexe,26-05-2011 18:05,NULL,NULL,1,0,0,NULL,NULL,NULL
+1154,386,02-09-2010 13:41,pbneau,27-06-2014 15:43,NULL,NULL,137,252,3,NULL,NULL,NULL
+1156,101,02-09-2010 21:00,rick schott,02-09-2010 21:00,http://blog.devlpr.net,"Lewisville, NC",0,0,0,NULL,NULL,NULL
+1157,138,02-09-2010 21:26,Byron Schmuland,11-09-2014 13:04,http://www.stat.ualberta.ca/people/schmu/dept_page.html,"Edmonton, Canada",39,10,0,56,http://i.stack.imgur.com/aqZSq.jpg,aqZSq.jpg
+1158,33,02-09-2010 21:55,mare,20-11-2011 20:50,NULL,NULL,5,1,0,NULL,NULL,NULL
+1160,101,02-09-2010 23:37,csmba,02-09-2010 23:37,http://knol.google.com/k//free-tools-and-websites/2p76v0g9rhval/4#,"San Francisco, CA",0,0,0,39,NULL,NULL
+1161,101,02-09-2010 23:41,AASoft,16-09-2010 04:09,NULL,"British Columbia, Canada",0,0,0,26,NULL,NULL
+1162,101,02-09-2010 23:42,Sam Pearson,27-08-2011 17:36,https://github.com/spearson,"Mukilteo, WA",1,0,0,30,NULL,NULL
+1163,301,02-09-2010 23:42,Sam Saffron,28-03-2012 08:32,http://samsaffron.com,"Sydney, Australia",43,2,0,39,NULL,NULL
+1164,101,02-09-2010 23:52,Matthew Read,16-06-2014 16:25,NULL,"Ontario, Canada",3,2,0,27,NULL,NULL
+1166,101,02-09-2010 23:55,Daniel C. Sobral,04-12-2010 16:25,http://dcsobral.blogspot.com/,"Brasilia, Brazil",4,1,0,43,NULL,NULL
+1167,16,03-09-2010 00:31,Camilo Telles,11-02-2011 09:19,http://www.tellesfera.com/,"Salvador, Brazil",5,0,0,NULL,NULL,NULL
+1169,101,03-09-2010 00:47,blizpasta,06-11-2010 02:22,NULL,"Singapore, Singapore",1,0,0,29,NULL,NULL
+1170,101,03-09-2010 01:53,Craig Walker,31-10-2012 21:42,http://softcraft.ca,"Calgary, Canada",0,1,0,37,NULL,NULL
+1173,101,03-09-2010 02:28,robDean,03-09-2010 02:48,http://inq.me,"Washington, DC",1,0,0,NULL,NULL,NULL
+1178,101,03-09-2010 07:00,Circadian,19-11-2011 10:27,NULL,NULL,0,0,0,NULL,NULL,NULL
+1179,101,03-09-2010 08:36,Mal Ross,17-02-2012 15:57,http://twitter.com/malross,"Newcastle Upon Tyne, United Kingdom",1,1,0,39,NULL,NULL
+1180,101,03-09-2010 09:20,LKM,03-09-2010 09:20,http://ignorethecode.net/blog,Switzerland,0,1,0,35,NULL,NULL
+1181,101,03-09-2010 11:33,nikow,06-12-2013 14:34,NULL,"Berlin, Germany",0,0,0,35,NULL,NULL
+1182,101,03-09-2010 11:45,jeff7,17-01-2013 18:20,NULL,NULL,2,2,0,NULL,NULL,NULL
+1183,101,03-09-2010 11:49,Dave Rix,20-02-2011 22:46,http://None,United Kingdom,0,0,0,42,NULL,NULL
+1185,16,03-09-2010 12:06,JBD,10-09-2010 13:31,NULL,France,10,0,0,38,NULL,NULL
+1186,101,03-09-2010 12:24,alimack,03-09-2010 19:07,http://www.alimack.co.uk,United Kingdom,0,0,0,48,NULL,NULL
+1187,101,03-09-2010 13:06,Thierry-Dimitri Roy,23-09-2010 01:32,http://careers.stackoverflow.com/java,"Montreal, Canada",2,0,0,38,NULL,NULL
+1189,78,03-09-2010 14:01,Vincent,31-10-2010 04:56,http://vincentdavis.net,"Denver, CO",5,3,0,NULL,NULL,NULL
+1190,101,03-09-2010 16:15,John Weldon,11-11-2012 23:43,http://johnweldon.com,"Sacramento, CA",6,2,0,38,NULL,NULL
+1191,2768,03-09-2010 17:00,xan,14-09-2014 02:15,http://www.forthgo.com/blog/,North Carolina,93,260,1,49,NULL,NULL
+1192,101,04-09-2010 04:50,ssakl,04-09-2010 04:50,http://esperantoiseasy.blogspot.com/,United States,0,2,0,47,NULL,NULL
+1194,103,04-09-2010 06:19,Stephen Jennings,06-08-2014 16:35,http://sgjennings.com,California,0,2,0,29,NULL,NULL
+1195,442,04-09-2010 09:08,hgcrpd,24-03-2014 11:30,NULL,NULL,34,13,0,NULL,NULL,NULL
+1197,108,05-09-2010 03:22,Zhenya,23-08-2014 18:02,NULL,NULL,13,0,0,NULL,NULL,NULL
+1200,101,05-09-2010 15:47,P-A,08-03-2011 07:58,NULL,"Stockholm, Sweden",1,0,0,32,NULL,NULL
+1201,111,05-09-2010 23:52,Mark Reid,07-12-2011 06:07,http://mark.reid.name,Australia,10,1,0,39,NULL,NULL
+1202,101,06-09-2010 01:05,Eugene Lazutkin,06-09-2010 01:05,http://lazutkin.com/,United States,1,0,0,NULL,NULL,NULL
+1204,151,06-09-2010 14:45,bhm,09-01-2012 12:52,NULL,NULL,3,0,0,NULL,NULL,NULL
+1205,212,06-09-2010 15:59,slhck,11-09-2014 13:17,http://slhck.info,"Berlin, Germany",34,11,0,NULL,NULL,NULL
+1208,148,08-09-2010 01:45,taotree,09-10-2012 05:41,http://www.mentics.com,NULL,6,2,0,NULL,NULL,NULL
+1210,158,08-09-2010 03:52,Aaron Statham,30-03-2013 01:11,http://www.google.com/reader/shared/07668169832087944506,"Sydney, Australia",26,5,1,31,NULL,NULL
+1211,101,08-09-2010 06:07,Harold L,08-09-2010 06:07,NULL,California,0,0,0,NULL,NULL,NULL
+1212,187,08-09-2010 09:58,Joel,04-06-2014 20:58,http://www.su3analytics.com,United Kingdom,28,23,0,37,NULL,NULL
+1215,339,08-09-2010 11:33,Lan,25-08-2014 07:51,NULL,"Ljubljana, Slovenia",40,18,0,33,NULL,NULL
+1216,175,08-09-2010 11:49,morpheous,13-01-2011 07:57,NULL,NULL,22,0,0,NULL,NULL,NULL
+1219,353,08-09-2010 13:31,glassy,25-04-2014 22:41,NULL,NULL,54,13,2,NULL,NULL,NULL
+1220,68,08-09-2010 13:44,mga,09-08-2014 02:09,http://twitter.com/marmistead,"Morgantown, WV",7,17,0,35,NULL,NULL
+1224,437,08-09-2010 17:08,rohanbk,11-02-2011 19:18,NULL,NULL,39,5,0,NULL,NULL,NULL
+1225,111,08-09-2010 17:47,Rich Armstrong,08-03-2012 20:51,http://richcooks.blogspot.com,"New York, NY",3,2,0,NULL,NULL,NULL
+1226,101,08-09-2010 19:22,PoorLuzer,26-08-2011 21:57,NULL,NULL,1,0,0,NULL,NULL,NULL
+1227,170,08-09-2010 19:47,Sarge,27-02-2013 00:46,http://www.trailhunger.com,"Vancouver, Canada",13,1,0,36,NULL,NULL
+1229,526,08-09-2010 23:54,paul,31-07-2014 16:46,NULL,NULL,34,11,0,NULL,NULL,NULL
+1234,101,09-09-2010 09:29,Wim ten Brink,23-02-2011 22:25,http://blog.wimtenbrink.nl/,Netherlands,0,0,0,48,http://i.stack.imgur.com/svGiU.jpg,svGiU.jpg
+1238,101,10-09-2010 01:26,ThomasGHenry,13-05-2014 17:19,NULL,"Poughkeepsie, NY",0,0,0,33,NULL,NULL
+1239,101,10-09-2010 01:58,leora,10-09-2010 05:00,NULL,"New York, NY",0,0,0,NULL,NULL,NULL
+1242,101,10-09-2010 13:16,Christopher Parker,10-09-2010 13:16,http://cparker15.com,"Boston, MA",1,0,0,31,NULL,NULL
+1244,101,10-09-2010 14:18,Matthew Rankin,21-02-2013 21:03,http://webmasters.stackexchange.com/users/1925/,"Independence, MO",0,0,0,40,NULL,NULL
+1246,101,11-09-2010 01:28,Alex Blakemore,04-08-2014 22:14,NULL,"Reston, VA",7,1,0,53,NULL,NULL
+1247,158,11-09-2010 02:42,Jason S,04-04-2014 15:22,http://www.embeddedrelated.com/blogs-1/nf/Jason_Sachs.php,Arizona,8,7,0,NULL,NULL,NULL
+1248,173,11-09-2010 13:12,yura,08-08-2014 22:18,http://www.linkedin.com/in/yurkor,"San Francisco, CA",25,2,0,NULL,NULL,NULL
+1249,101,11-09-2010 17:46,FeatureCreep,28-07-2011 11:44,NULL,NULL,0,0,0,NULL,NULL,NULL
+1250,559,11-09-2010 19:03,Edward,01-01-2011 15:12,NULL,NULL,47,17,0,NULL,NULL,NULL
+1251,55,11-09-2010 23:08,Ama,31-05-2014 14:04,NULL,NULL,31,8,0,NULL,NULL,NULL
+1252,101,12-09-2010 03:46,Mark,12-09-2010 03:46,http://markn.ca,"Ottawa, Canada",1,0,0,36,NULL,NULL
+1253,51,12-09-2010 04:58,Kevin,05-11-2010 22:37,NULL,NULL,2,2,0,NULL,NULL,NULL
+1255,101,12-09-2010 05:54,rsman,28-02-2014 07:56,http://nodesman.com/,"Chennai, India",1,1,0,28,NULL,NULL
+1256,111,12-09-2010 13:57,TrickyNixon,08-09-2011 21:21,http://www.boardgamegeek.com/user/CrankyPants,United States,3,2,0,46,NULL,NULL
+1259,128,12-09-2010 15:02,Wikis,27-02-2014 10:36,NULL,"Earth, TX",14,4,0,42,NULL,NULL
+1260,153,12-09-2010 15:52,pixel,23-07-2014 03:21,http://www.zloto-jubiler.pl,"Warsaw, Poland",1,0,0,29,NULL,NULL
+1261,188,12-09-2010 16:44,jitendra,14-01-2014 17:16,NULL,Nepal,22,3,0,NULL,NULL,NULL
+1262,101,12-09-2010 18:56,shuttle87,28-12-2013 19:51,NULL,Australia,0,0,0,27,http://i.stack.imgur.com/FGDo8.jpg,FGDo8.jpg
+1265,451,13-09-2010 07:03,Gael Varoquaux,19-08-2014 21:13,http://gael-varoquaux.info,NULL,110,19,0,NULL,NULL,NULL
+1266,186,13-09-2010 11:47,Rok,03-02-2011 12:30,NULL,NULL,12,0,0,NULL,NULL,NULL
+1267,121,13-09-2010 13:52,dlras2,16-09-2013 19:48,http://gplus.to/dlras2/about,"Chicago, IL",10,2,0,24,NULL,NULL
+1268,101,13-09-2010 17:15,McBeth,09-02-2012 14:07,http://broggs.org,"Rochester, NY",7,1,0,38,NULL,NULL
+1269,101,13-09-2010 20:17,charstar,10-11-2012 06:55,NULL,"San Francisco, CA",1,4,0,35,NULL,NULL
+1270,639,13-09-2010 20:53,Mike Dunlavey,10-09-2014 00:03,http://en.wikipedia.org/wiki/User:MikeDunlavey,United States,83,42,0,70,http://i.stack.imgur.com/NeuGc.jpg,NeuGc.jpg
+1271,101,13-09-2010 23:34,Brian Carlton,06-05-2011 20:19,NULL,California,1,0,0,NULL,NULL,NULL
+1272,21,14-09-2010 00:12,Alone,14-09-2010 00:12,NULL,NULL,1,0,0,NULL,NULL,NULL
+1273,101,14-09-2010 00:51,Vincent Buck,01-05-2014 21:49,http://aiic.net/v.buck,"Brussels, Belgium",33,0,0,47,NULL,NULL
+1276,101,14-09-2010 17:30,Silent Warrior,12-11-2010 03:10,http://www.geek2nerd.blogspot.com/,"Pune, India",0,1,0,36,NULL,NULL
+1277,1,14-09-2010 20:07,dm1try,25-04-2011 10:05,NULL,NULL,1,0,0,NULL,NULL,NULL
+1279,26,15-09-2010 00:45,stats-teacher-stats-studentZZZ,28-12-2010 19:15,NULL,NULL,19,0,0,NULL,NULL,NULL
+1280,101,15-09-2010 02:48,mezmo,08-09-2014 17:04,http://www.mymindtrip.net,"Salt Lake City, UT",1,0,0,52,NULL,NULL
+1282,101,15-09-2010 08:22,Ryan Tenney,22-09-2010 03:55,http://ryan.10e.us/,"Rochester, NY",0,0,0,29,NULL,NULL
+1283,31,15-09-2010 09:37,pariser,17-07-2014 18:06,http://www.pariser.me/,"Menlo Park, CA",7,0,0,29,NULL,NULL
+1284,21,15-09-2010 10:44,Dan,22-09-2010 15:12,NULL,"London, United Kingdom",2,0,0,NULL,NULL,NULL
+1287,133,15-09-2010 14:09,MSalters,10-09-2014 17:57,NULL,Netherlands,6,1,0,40,NULL,NULL
+1290,38,15-09-2010 16:40,Henry Mahncke,08-12-2010 21:25,http://www.positscience.com,"San Francisco, CA",30,2,0,NULL,NULL,NULL
+1291,303,15-09-2010 19:12,Misha,13-09-2014 16:01,NULL,NULL,214,15,0,NULL,NULL,NULL
+1292,101,15-09-2010 20:09,user158017,23-03-2014 12:34,NULL,NULL,2,0,0,NULL,NULL,NULL
+1293,101,15-09-2010 21:57,MacMac,11-02-2014 10:09,NULL,NULL,0,0,0,NULL,https://www.gravatar.com/avatar/328ab291564de10ce25fe8771cc36f21?s=128&d=identicon&r=PG,NULL
+1294,101,16-09-2010 01:30,eipipuz,09-10-2010 22:39,NULL,NULL,0,0,0,NULL,NULL,NULL
+1295,101,16-09-2010 02:08,Joe Enos,29-10-2013 15:59,http://www.jtenos.com/,"Phoenix, AZ",0,0,0,33,NULL,NULL
+1296,101,16-09-2010 02:10,Jon Freeland,03-11-2012 16:42,NULL,"New York, NY",0,0,0,NULL,NULL,NULL
+1297,101,16-09-2010 02:12,Darko Z,11-02-2014 13:23,http://www.zoroja.com/blog,"Melbourne, Australia",0,0,0,31,NULL,NULL
+1298,101,16-09-2010 02:25,miguel.de.icaza,19-05-2013 01:59,http://tirania.org/blog,"Boston, MA",0,0,0,NULL,NULL,NULL
+1299,101,16-09-2010 02:54,David Grant,16-09-2010 02:54,http://seizethedave.tumblr.com,"Chicago, IL",2,0,0,32,NULL,NULL
+1300,101,16-09-2010 03:26,rwired,17-09-2010 08:21,http://www.linkedin.com/in/rwired,China,0,1,0,43,NULL,NULL
+1302,101,16-09-2010 03:47,Jesse C. Slicer,16-09-2010 03:47,http://theslice.livejournal.com/,"Olathe, KS",0,0,0,42,NULL,NULL
+1303,11,16-09-2010 04:03,Shlomo Argamon,17-09-2010 13:02,http://lingcog.iit.edu,NULL,2,0,0,NULL,NULL,NULL
+1305,101,16-09-2010 04:36,James McNellis,15-02-2011 03:49,http://www.jamesmcnellis.com,"Redmond, WA",1,0,0,29,http://i.stack.imgur.com/8kgup.jpg,8kgup.jpg
+1306,101,16-09-2010 06:04,Carlos Lima,16-09-2010 06:04,http://blog.carloslima.name,Brazil,0,0,0,32,NULL,NULL
+1307,4128,16-09-2010 07:00,suncoolsu,04-12-2013 02:15,http://twitter.com/suncoolsu,United States,5025,600,10,26,NULL,NULL
+1308,101,16-09-2010 07:01,Martin Bøgelund,10-08-2012 08:20,http://www.bogelund.net,Denmark,1,0,0,44,NULL,NULL
+1309,101,16-09-2010 07:13,Vincent Robert,07-03-2011 09:57,http://genezys.net,"Paris, France",0,0,0,32,NULL,NULL
+1311,101,16-09-2010 07:27,julien,16-09-2010 07:27,NULL,France,1,0,0,NULL,NULL,NULL
+1312,101,16-09-2010 07:36,Mike Woodhouse,02-11-2012 16:26,http://grumpyop.wordpress.com/,"London, United Kingdom",0,4,0,55,NULL,NULL
+1313,141,16-09-2010 07:57,user1313,10-05-2011 11:52,NULL,NULL,3,1,0,NULL,NULL,NULL
+1314,76,16-09-2010 08:29,levanovd,25-12-2013 04:34,http://4recipes.ru,NULL,6,3,0,NULL,NULL,NULL
+1315,101,16-09-2010 09:10,ssokolow,17-09-2011 07:05,http://www.ssokolow.com/,"Ontario, Canada",3,0,0,29,NULL,NULL
+1316,178,16-09-2010 11:46,yassin,24-09-2010 12:15,NULL,NULL,18,2,0,26,NULL,NULL
+1318,101,16-09-2010 13:03,Patrick McElhaney,19-07-2011 15:15,http://patrickmcelhaney.com,"Charlotte, NC",1,1,0,36,NULL,NULL
+1319,101,16-09-2010 13:27,Mark Cidade,09-06-2014 02:38,NULL,NULL,2,1,0,NULL,NULL,NULL
+1320,330,16-09-2010 15:43,levesque,08-09-2014 14:23,http://jcl.posterous.com,"Quebec City, Canada",67,73,0,29,NULL,NULL
+1321,101,16-09-2010 15:46,Ryan Lynch,07-05-2011 19:53,NULL,"Washington, DC",1,5,0,NULL,NULL,NULL
+1322,101,16-09-2010 16:00,Christopher Cashell,16-09-2010 21:17,http://topher.zyp.org,"Omaha, NE",0,0,0,37,NULL,NULL
+1323,101,16-09-2010 16:54,Yaser Sulaiman,24-12-2010 15:53,http://yaserxp.wordpress.com/,"Dammam, Saudi Arabia",1,14,0,30,NULL,NULL
+1324,36,16-09-2010 18:41,General Turgidson,04-10-2011 17:41,http://www.kmctrampolineteam.com,"Philadelphia, PA",3,0,0,59,NULL,NULL
+1327,179,16-09-2010 20:52,Dave,13-09-2014 15:29,NULL,NULL,26,147,0,36,NULL,NULL
+1328,101,16-09-2010 21:23,pauliephonic,16-09-2010 21:23,NULL,NULL,0,0,0,NULL,NULL,NULL
+1329,1665,16-09-2010 21:32,Gaetan Lion,13-09-2014 23:41,http://www.slideshare.net/gaetanlion,California,335,91,5,NULL,NULL,NULL
+1330,106,16-09-2010 22:02,Alexander L. Belikoff,27-03-2014 14:19,http://belikoff.net,NULL,2,0,0,NULL,NULL,NULL
+1331,101,16-09-2010 22:19,user1331,16-09-2010 22:19,NULL,NULL,0,0,0,NULL,NULL,NULL
+1334,81,17-09-2010 00:15,iopsych,09-02-2014 02:07,NULL,NULL,6,0,0,NULL,NULL,NULL
+1336,31,17-09-2010 04:27,baisong,01-03-2014 02:18,NULL,"Boston, MA",1,0,0,NULL,NULL,NULL
+1342,106,17-09-2010 16:31,Lucas,18-07-2014 04:07,http://www.lucaswilkins.com,"England, United Kingdom",7,0,0,31,NULL,NULL
+1343,101,17-09-2010 16:51,Ian Mackinnon,22-05-2012 22:25,http://ianmackinnon.co.uk,"Madrid, Spain",58,0,0,34,NULL,NULL
+1344,101,17-09-2010 22:43,Hanif,29-01-2013 08:20,NULL,Qatar,3,3,0,NULL,NULL,NULL
+1345,101,17-09-2010 23:20,emory,10-07-2014 13:15,NULL,NULL,2,2,0,NULL,NULL,NULL
+1346,101,17-09-2010 23:42,Jeremy,24-04-2011 18:24,http://www.teamredwall.com,California,0,0,0,37,http://www.gravatar.com/avatar/4df34c45f1fac70a6c9c82da6ab6984d?s=128&d=identicon&r=PG,NULL
+1347,1775,18-09-2010 01:58,dsimcha,05-11-2013 19:35,NULL,Maryland,126,58,0,30,NULL,NULL
+1349,173,18-09-2010 08:16,Vishal Belsare,31-08-2014 19:11,NULL,NULL,36,23,0,NULL,NULL,NULL
+1351,572,18-09-2010 10:39,Wok,12-09-2014 11:53,http://stackexchange.com/users/158078/wok,France,171,185,0,28,NULL,NULL
+1352,5859,18-09-2010 10:55,Stephan Kolassa,31-08-2014 08:27,http://www54.sap.com/industries/retail/solutions/sub-ind/software/forecast-replenishment/index.html,Switzerland,783,595,7,39,NULL,NULL
+1354,106,18-09-2010 15:45,Mika Fischer,20-08-2014 10:43,http://zoopnet.de/,"Karlsruhe, Germany",2,0,0,33,NULL,NULL
+1355,286,18-09-2010 16:03,Laurent,01-05-2014 23:02,http://slashhome.be,"Cambridge, United Kingdom",26,23,0,38,NULL,NULL
+1356,745,19-07-2010 22:59,aL3xa,28-05-2014 22:35,http://twitter.com/alexablag,"Nish, Serbia",129,115,1,29,NULL,NULL
+1357,101,18-09-2010 18:18,j-g-faustus,18-04-2013 03:23,NULL,NULL,1,3,0,NULL,NULL,NULL
+1358,1,18-09-2010 19:53,SteveH,12-07-2013 19:52,NULL,NULL,0,0,0,40,NULL,NULL
+1364,163,19-09-2010 13:49,Andrew Redd,10-08-2012 21:01,http://www.stat.tamu.edu/~aredd,"College Station, TX",9,0,0,33,NULL,NULL
+1366,31,19-09-2010 17:47,user1366,13-07-2011 12:40,NULL,NULL,3,0,0,NULL,NULL,NULL
+1367,101,19-09-2010 18:34,limist,02-04-2012 02:46,http://limist.com,NULL,0,0,0,NULL,NULL,NULL
+1368,101,19-09-2010 19:51,Jonas Meyer,25-07-2014 14:09,NULL,NULL,10,2,0,NULL,NULL,NULL
+1371,202,20-09-2010 01:56,matcheek,08-08-2014 12:27,NULL,NULL,74,15,0,NULL,NULL,NULL
+1375,101,20-09-2010 10:27,dalloliogm,10-09-2014 08:31,http://http:/bioinfoblog.it,"Barcelona, Spain",0,23,0,31,NULL,NULL
+1376,101,20-09-2010 13:24,Josh Bleecher Snyder,28-12-2011 01:16,NULL,NULL,6,0,0,NULL,NULL,NULL
+1377,101,20-09-2010 14:17,WernerCD,27-05-2014 15:37,http://wernercd.com,Delaware,2,1,0,35,NULL,NULL
+1378,327,20-09-2010 16:46,Charles,08-09-2014 15:53,NULL,NULL,29,35,0,NULL,NULL,NULL
+1380,101,20-09-2010 22:43,bigown,19-01-2014 15:01,http://area51.stackexchange.com/proposals/23539/stack-overflow-in-portuguese?referrer=hKR2wDt1aL_Y236h5e0UuA2,Brazil,1,34,0,44,https://www.gravatar.com/avatar/976163c09407366a12badacca85e754a?s=128&d=identicon&r=PG,NULL
+1381,3533,20-09-2010 22:54,David,03-09-2014 11:02,http://www.openwetware.org/wiki/User:David_S_LeBauer,"Urbana, IL",299,910,34,NULL,NULL,NULL
+1384,101,21-09-2010 09:18,Mark C,22-10-2012 03:40,NULL,"San Antonio, TX",0,1,0,28,NULL,NULL
+1387,126,21-09-2010 17:20,Petr,22-09-2010 23:04,NULL,NULL,8,0,0,NULL,NULL,NULL
+1389,262,21-09-2010 18:12,Skarab,24-09-2013 22:20,http://wbarczynski.pl/wp,NULL,41,5,0,NULL,NULL,NULL
+1390,10476,21-09-2010 18:58,Gavin Simpson,13-09-2014 15:50,http://www.fromthebottomoftheheap.net,"Regina, Canada",1165,602,34,38,NULL,NULL
+1392,110,21-09-2010 23:09,zaxtax,12-08-2014 00:17,NULL,NULL,22,6,0,NULL,NULL,NULL
+1393,182,22-09-2010 01:07,Jyotirmoy Bhattacharya,19-05-2014 13:33,http://www.jyotirmoy.net,"Delhi, India",72,9,5,NULL,NULL,NULL
+1395,172,22-09-2010 01:44,Justin Meltzer,06-01-2011 07:43,NULL,NULL,34,1,0,NULL,NULL,NULL
+1396,46,22-09-2010 09:06,user1396,30-11-2011 12:02,NULL,NULL,1,0,0,NULL,NULL,NULL
+1397,258,22-09-2010 11:57,Johann Hibschman,09-09-2014 13:23,NULL,"New York, NY",17,2,0,NULL,NULL,NULL
+1398,101,22-09-2010 14:24,Ori Folger,08-09-2012 14:42,http://twitter.com/calanya,Israel,0,0,0,34,NULL,NULL
+1399,101,22-09-2010 14:46,100rabh,30-11-2010 10:29,http://dotslasha.in,"Indore, India",1,1,0,25,NULL,NULL
+1400,101,22-09-2010 16:05,z5h,01-12-2011 20:58,http://about.me/mark.bolusmjak,"Toronto, Canada",0,0,0,38,NULL,NULL
+1402,101,22-09-2010 22:11,sandesh247,20-03-2013 04:56,http://sandesh247.com,"Mumbai, India",0,0,0,30,NULL,NULL
+1403,101,23-09-2010 02:40,Dori,21-11-2011 21:39,http://www.dori.com,"Healdsburg, CA",14,0,0,53,NULL,NULL
+1409,101,23-09-2010 21:40,Falmarri,28-04-2011 18:56,NULL,NULL,0,0,0,NULL,NULL,NULL
+1410,16,24-09-2010 02:41,user1410,24-09-2010 05:13,NULL,NULL,1,0,0,NULL,NULL,NULL
+1411,165,24-09-2010 08:09,Theodor,07-06-2012 16:42,NULL,NULL,5,3,0,NULL,NULL,NULL
+1413,101,24-09-2010 12:34,Alnitak,31-05-2013 22:36,NULL,United Kingdom,0,2,0,45,NULL,NULL
+1414,139,24-09-2010 15:27,user1414,27-09-2010 06:47,NULL,NULL,2,0,0,NULL,NULL,NULL
+1416,101,24-09-2010 16:50,molecules,14-07-2014 16:14,NULL,NULL,0,0,0,39,NULL,NULL
+1417,51,24-09-2010 18:34,Anjan,02-05-2011 14:09,NULL,NULL,3,1,0,NULL,NULL,NULL
+1419,101,25-09-2010 16:11,athena,19-05-2011 17:03,NULL,NULL,0,1,0,NULL,NULL,NULL
+1421,208,26-09-2010 07:28,Thilo,04-03-2014 23:39,http://twitter.com/jajathilo,"Singapore, Singapore",10,4,0,NULL,NULL,NULL
+1422,270,26-09-2010 07:36,analyticsPierce,25-07-2014 18:56,http://www.marketingsciencedepartment.com,"Denver, CO",20,8,0,41,NULL,NULL
+1423,101,26-09-2010 12:27,houbysoft,13-08-2014 21:16,http://houbysoft.com/,"Stanford, CA",1,0,0,21,NULL,NULL
+1424,51,26-09-2010 16:26,Cyrus,17-12-2010 18:44,http://www.columbia.edu/~cds81,NULL,1,0,0,NULL,NULL,NULL
