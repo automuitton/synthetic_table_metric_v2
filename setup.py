@@ -5,7 +5,7 @@ with open("requirements.txt", "r") as r:
 
 setup(
     name="synthetic_table_metrics",
-    version="0.2dev",
+    version="0.2.1dev",
     description='Testing installation of Package',
     packages=find_packages(),
     install_requires=req,
