@@ -14,5 +14,7 @@ class Data:
         self.real_raw = real
         self.synthetic_raw = synthetic
         transformer = HyperTransformer()
+        
         self.real = transformer.fit_transform(real).values
         self.synthetic = transformer.transform(synthetic).values
+        
