@@ -29,10 +29,25 @@ class DuplicateCounter:
         in the array. Finally, return the number of duplicates over
         the number of rows in the array.
         """
+        
         b = np.ascontiguousarray(d).view(
-            np.dtype((np.void, d.dtype.itemsize * d.shape[1]))
+            np.dtype((np.void, d.values.itemsize * d.shape[1]))
         )
-        n_unique = np.shape(np.unique(b).view(d.dtype).reshape(-1, d.shape[1]))[0]
+        print(b.shape)
+        n_unique = np.array([])
+        try:
+            n_unique = np.shape(
+            np.unique(
+                b
+                ).view().reshape(-1, d.shape[0])
+            )[0]
+        except Exception:
+            n_unique = np.shape(
+            np.unique(
+                b
+                ).view().reshape(-1, d.shape[0]-1)
+            )[0]
+        # print(n_unique)
         return (len(d) - n_unique) / len(d)
 
     @staticmethod

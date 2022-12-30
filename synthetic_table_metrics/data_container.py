@@ -13,8 +13,11 @@ class Data:
     def __init__(self, real, synthetic):
         self.real_raw = real
         self.synthetic_raw = synthetic
-        transformer = HyperTransformer()
-        
-        self.real = transformer.fit_transform(real).values
-        self.synthetic = transformer.transform(synthetic).values
+        ht = HyperTransformer()
+        ht.detect_initial_config(data = real)
+        ht.fit(real)
+        self.real = ht.transform(real)
+        ht.detect_initial_config(data = synthetic)
+        ht.fit(synthetic)
+        self.synthetic = ht.transform(synthetic)
         
