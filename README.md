@@ -35,7 +35,7 @@ Modifying the existing synthetic_table_metric
     print("\n-- BAD SYNTHETIC DATA:")
     print(json.dumps(results, indent=2))
 
-- supports only python 3.10 below and 3.8 above
+- supports only python 3.10 above
 - csv's for this example you can find data folder
 - This library does not support nan value for score
 - Updated packages so installation can be fluent
