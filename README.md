@@ -3,7 +3,13 @@ Modifying the existing synthetic_table_metric
 
 ## Installing using pip
 
-    pip install git+https://github.com/automuitton/synthetic_table_metric_v2.git
+    pip install git+http://10.246.56.26:2020/aaris_kazi/synthetic_table_metric_v2.git
+    
+## Make this package by
+
+    git clone http://10.246.56.26:2020/aaris_kazi/synthetic_table_metric_v2.git
+    cd synthetic_table_metric_v2
+    python setup.py
 
 
 ## Example
